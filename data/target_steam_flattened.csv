@@ -1,0 +1,1001 @@
+appid,name,price,release_date,required_age,genres,achievements,positive_ratings,negative_ratings,windows,mac,linux
+10,Counter-Strike,7.19,2000-11-01,0,Action,0,124534,3339,True,True,True
+30,Day of Defeat,3.99,2003-05-01,0,Action,0,3416,398,True,True,True
+40,Deathmatch Classic,3.99,2001-06-01,0,Action,0,1273,267,True,True,True
+50,Half-Life: Opposing Force,5.05,1999-11-01,0,Action,0,5250,288,True,True,True
+60,Ricochet,3.99,2000-11-01,0,Action,0,2758,684,True,True,True
+70,Half-Life,7.19,1998-11-08,0,Action,0,27755,1100,True,True,True
+80,Counter-Strike: Condition Zero,7.19,2004-03-01,0,Action,0,12120,1439,True,True,True
+130,Half-Life: Blue Shift,3.99,2001-06-01,0,Action,0,3822,420,True,True,True
+220,Half-Life 2,7.19,2004-11-16,0,Action,33,67902,2419,True,True,True
+240,Counter-Strike: Source,7.19,2004-11-01,0,Action,147,76640,3497,True,True,True
+280,Half-Life: Source,0.0,2004-06-01,0,Action,0,3767,1053,True,True,True
+300,Day of Defeat: Source,7.19,2010-07-12,0,Action,54,10489,1210,True,True,True
+320,Half-Life 2: Deathmatch,3.99,2004-11-01,0,Action,0,6020,787,True,True,True
+340,Half-Life 2: Lost Coast,0.0,2005-10-27,0,Action,0,5783,1020,True,True,True
+360,Half-Life Deathmatch: Source,0.0,2006-05-01,0,Action,0,1362,473,True,True,True
+380,Half-Life 2: Episode One,5.79,2006-06-01,0,Action,13,7908,517,True,True,True
+400,Portal,7.19,2007-10-10,0,Action,15,51801,1080,True,True,True
+420,Half-Life 2: Episode Two,5.79,2007-10-10,0,Action,22,13902,696,True,True,True
+440,Team Fortress 2,0.0,2007-10-10,0,Action;Free to Play,520,515879,34036,True,True,True
+500,Left 4 Dead,7.19,2008-11-17,0,Action,73,17951,948,True,True,False
+550,Left 4 Dead 2,7.19,2009-11-19,0,Action,70,251789,8418,True,True,True
+570,Dota 2,0.0,2013-07-09,0,Action;Free to Play;Strategy,0,863507,142079,True,True,True
+620,Portal 2,7.19,2011-04-18,0,Action;Adventure,51,138220,1891,True,True,True
+630,Alien Swarm,0.0,2010-07-19,0,Action,66,17435,941,True,False,False
+730,Counter-Strike: Global Offensive,0.0,2012-08-21,0,Action;Free to Play,167,2644404,402313,True,True,True
+1002,Rag Doll Kung Fu,5.99,2005-10-12,0,Indie,0,40,17,True,False,False
+1200,Red Orchestra: Ostfront 41-45,3.99,2006-03-14,0,Action,44,1562,223,True,True,True
+1250,Killing Floor,14.99,2009-05-14,0,Action,285,53710,2649,True,True,True
+1300,SiN Episodes: Emergence,7.19,2006-05-10,0,Action,0,468,61,True,False,False
+1500,Darwinia,7.19,2005-07-14,0,Indie;Strategy,0,472,158,True,True,True
+1510,Uplink,6.99,2006-08-23,0,Indie;Strategy,0,1602,152,True,True,True
+1520,DEFCON,7.19,2006-09-29,0,Indie;Strategy,22,2057,344,True,True,True
+1530,Multiwinia,7.19,2008-09-19,0,Indie,12,368,75,True,True,False
+1600,Dangerous Waters,22.99,2006-02-07,0,Strategy,0,140,44,True,False,False
+1610,Space Empires IV Deluxe,6.99,2006-02-07,0,Strategy,0,112,26,True,False,False
+1630,Disciples II: Rise of the Elves ,4.99,2006-07-06,0,Strategy,0,451,108,True,False,False
+1640,Disciples II: Gallean's Return,4.99,2006-07-06,0,Strategy,0,490,152,True,False,False
+1670,Iron Warriors: T - 72 Tank Command ,3.99,2006-07-26,0,Strategy,0,137,102,True,False,False
+1690,Space Empires V,10.99,2006-10-16,0,Strategy,0,191,85,True,False,False
+1700,Arx Fatalis,2.99,2007-04-03,0,RPG,0,671,106,True,False,False
+1840,Source Filmmaker,0.0,2012-07-10,0,Animation & Modeling;Video Production,0,15083,1111,True,False,False
+1900,Earth 2160,3.99,2006-04-01,0,Strategy,0,498,238,True,True,True
+1930,Two Worlds Epic Edition,6.99,2009-04-30,0,RPG,0,2656,1055,True,True,True
+2100,Dark Messiah of Might & Magic,4.29,2006-10-25,0,Action;RPG,0,4386,316,True,False,False
+2200,Quake III Arena,12.99,2007-08-03,0,Action,0,1362,66,True,False,False
+2210,Quake IV,12.99,2011-08-04,18,Action,0,891,171,True,False,False
+2270,Wolfenstein 3D,2.99,2007-08-03,0,Action,0,1773,87,True,False,False
+2280,Ultimate Doom,3.99,2007-08-03,0,Action,0,3705,257,True,False,False
+2290,Final DOOM,3.99,2007-08-03,0,Action,0,573,82,True,False,False
+2300,DOOM II,3.99,2007-08-03,0,Action,0,2517,182,True,False,False
+2310,QUAKE,3.99,2007-08-03,0,Action,0,2618,136,True,False,False
+2320,QUAKE II,3.99,2007-08-03,0,Action,0,1369,107,True,False,False
+2330,QUAKE II Mission Pack: The Reckoning,2.49,2007-08-03,0,Action,0,65,12,True,False,False
+2340,QUAKE II Mission Pack: Ground Zero,2.49,2007-08-03,0,Action,0,54,33,True,False,False
+2350,QUAKE III: Team Arena,12.99,2007-08-03,0,Action,0,108,31,True,False,False
+2360,HeXen: Beyond Heretic,2.99,2007-08-03,0,Action,0,249,26,True,False,False
+2370,HeXen: Deathkings of the Dark Citadel,2.99,2007-08-03,0,Action,0,57,20,True,False,False
+2390,Heretic: Shadow of the Serpent Riders,2.99,2007-08-03,0,Action,0,417,29,True,False,False
+2400,The Ship: Murder Party,0.0,2006-07-11,0,Action;Indie;RPG,0,4819,792,True,False,False
+2450,Bloody Good Time,4.29,2010-10-29,0,Action,12,662,204,True,False,False
+2500,Shadowgrounds,3.99,2006-05-08,0,Action,0,973,248,True,True,False
+2520,Gumboy - Crazy Adventures™,0.0,2006-12-19,0,Casual;Indie,0,52,46,True,False,False
+2590,Alpha Prime,2.99,2007-11-07,0,Action,0,610,523,True,False,False
+2600,Vampire: The Masquerade - Bloodlines,14.99,2007-03-22,0,Action,0,6161,362,True,False,False
+2610,GUN™,9.99,2006-10-13,0,Action,0,740,87,True,False,False
+2620,Call of Duty®,14.99,2006-10-13,0,Action,0,1555,117,True,False,False
+2630,Call of Duty® 2,14.99,2006-10-13,0,Action,0,2434,236,True,True,False
+2640,Call of Duty: United Offensive,14.99,2006-10-13,0,Action,0,490,97,True,False,False
+2710,Act of War: Direct Action,1.99,2008-03-12,0,Action,0,180,33,True,False,False
+2720,ThreadSpace: Hyperbol,3.99,2007-07-12,0,Action;Indie;Strategy,0,31,9,True,False,False
+2780,ARMA: Combat Operations,5.99,2008-03-12,0,Action,0,145,77,True,False,False
+2800,X2: The Threat,4.99,2006-07-21,0,Strategy,0,212,50,True,False,False
+2810,X3: Reunion,9.99,2006-07-21,0,Strategy,0,282,113,True,True,True
+2820,X3: Terran Conflict,15.99,2008-10-16,0,Action;Simulation;Strategy,33,1633,272,True,True,True
+2840,X: Beyond the Frontier,3.49,2010-10-08,0,Simulation;Strategy,0,142,48,True,False,False
+2850,X: Tension,3.49,2010-10-08,0,Simulation;Strategy,0,57,18,True,False,False
+2870,X Rebirth,24.99,2013-11-15,0,Action;Simulation,69,2832,4032,True,True,True
+2900,688(I) Hunter/Killer,22.99,2006-10-26,0,Strategy,0,52,17,True,False,False
+2910,Fleet Command,22.99,2006-10-26,0,Strategy,0,127,31,True,False,False
+2920,Sub Command,22.99,2006-10-26,0,Strategy,0,33,14,True,False,False
+2990,FlatOut 2™,5.99,2006-12-21,0,Racing,0,5438,343,True,False,False
+3010,Xpand Rally,3.99,2006-08-24,0,Racing,0,139,39,True,False,False
+3020,Call of Juarez™,8.59,2007-11-08,0,Action,0,793,198,True,False,False
+3050,Xpand Rally Xtreme,3.99,2008-10-08,0,Racing,0,71,36,True,False,False
+3130,Men of War: Red Tide,3.99,2009-11-01,0,Strategy,0,294,69,True,False,False
+3170,King's Bounty: Armored Princess,7.99,2009-11-19,0,RPG;Strategy,0,482,53,True,True,False
+3230,Genesis Rising,4.49,2007-08-06,0,Strategy,0,30,94,True,False,False
+3260,Safecracker: The Ultimate Puzzle Adventure,4.49,2007-08-29,0,Adventure;Casual,0,256,172,True,False,False
+3270,Painkiller Overdose,4.49,2007-10-30,0,Action,0,429,137,True,False,False
+3330,Zuma Deluxe,4.25,2006-08-30,0,Casual,0,437,37,True,True,False
+3410,Heavy Weapon Deluxe,4.25,2006-08-30,0,Casual,0,71,28,True,False,False
+3480,Peggle Deluxe,4.25,2007-03-06,0,Casual,0,1106,66,True,True,False
+3483,Peggle Extreme,0.0,2007-09-11,0,Casual,0,707,58,True,False,False
+3490,Venice Deluxe,4.25,2007-06-25,0,Casual,0,10,2,True,False,False
+3500,Mystery P.I.™ - The Lottery Ticket,4.25,2007-10-16,0,Casual,0,10,3,True,False,False
+3510,Amazing Adventures The Lost Tomb™,4.25,2007-12-13,0,Casual,0,21,8,True,False,False
+3520,Mystery P.I.™ - The Vegas Heist,4.25,2008-06-05,0,Casual,0,11,5,True,False,False
+3530,Amazing Adventures Around the World,4.25,2009-04-15,0,Casual,0,23,7,True,False,False
+3540,Peggle™ Nights,4.25,2008-10-15,0,Casual,0,368,24,True,True,False
+3560,Bejeweled Twist,4.25,2008-11-18,0,Strategy;Casual,0,98,18,True,False,False
+3570,Mystery P.I.™ - The New York Fortune,4.25,2009-01-28,0,Casual,0,8,5,True,False,False
+3580,The Wizard's Pen™,4.25,2009-02-18,0,Casual,0,15,3,True,False,False
+3590,Plants vs. Zombies GOTY Edition,4.25,2009-05-05,0,Strategy,21,14630,454,True,True,False
+3600,Escape Rosecliff Island,4.25,2009-04-15,0,Casual,0,97,57,True,True,False
+3610,Mystery P.I. - Lost in Los Angeles,4.25,2009-07-27,0,Casual,0,8,3,True,False,False
+3620,Zuma's Revenge!,4.25,2009-09-15,0,Action;Casual,14,435,28,True,False,False
+3700,Sniper Elite,5.59,2009-07-16,0,Action,0,1181,377,True,False,False
+3710,Judge Dredd: Dredd vs. Death,5.59,2009-03-26,0,Action,0,559,79,True,False,False
+3720,Evil Genius,6.99,2009-06-22,0,Strategy,0,1847,95,True,False,False
+3730,Aliens versus Predator Classic 2000,3.99,2010-01-15,0,Action,0,1434,219,True,False,False
+3800,Advent Rising,7.19,2006-09-14,0,Action,0,260,71,True,False,False
+3810,BloodRayne,6.99,2006-09-14,0,Action,0,369,110,True,False,False
+3820,BloodRayne 2,6.99,2006-09-14,0,Action,0,259,103,True,False,False
+3830,Psychonauts,6.99,2006-10-11,0,Action,37,8204,456,True,True,True
+3900,Sid Meier's Civilization® IV,9.99,2006-10-25,0,Strategy,0,1394,129,True,True,False
+3910,Sid Meier's Civilization® III Complete,2.99,2006-10-25,0,Strategy,0,2578,405,True,False,False
+3920,Sid Meier's Pirates!,5.99,2005-07-11,0,RPG,0,2641,193,True,False,False
+3960,Shattered Union,2.99,2006-10-25,0,Strategy,0,39,49,True,False,False
+3980,CivCity: Rome,5.99,2007-04-06,0,Strategy,0,184,65,True,False,False
+3990,Civilization IV®: Warlords,2.99,2007-04-06,0,Strategy,0,121,20,True,True,False
+4000,Garry's Mod,6.99,2006-11-29,0,Indie;Simulation,29,363721,16433,True,True,True
+4100,Poker Superstars II,5.99,2006-10-05,0,Casual;Strategy;Indie,0,4,5,True,False,False
+4230,RACE - The WTCC Game,25.99,2006-11-24,0,Racing,0,119,43,True,False,False
+4290,RACE: Caterham Expansion,3.99,2007-06-22,0,Racing,0,4,2,True,False,False
+4300,RoboBlitz,5.99,2006-11-07,0,Action;Indie,0,43,14,True,False,False
+4420,Silverfall,7.99,2007-03-20,0,RPG,0,57,36,True,False,False
+4460,City Life 2008,6.99,2008-09-29,0,Simulation;Strategy,0,77,41,True,False,False
+4470,Silverfall: Earth Awakening,7.99,2008-07-18,0,RPG,0,31,17,True,False,False
+4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,9.99,2007-03-20,0,Action;RPG,0,11039,570,True,False,False
+4520,Full Spectrum Warrior,7.99,2007-07-17,0,Action;Strategy,0,106,60,True,False,False
+4530,Full Spectrum Warrior: Ten Hammers,4.99,2007-07-17,0,Action;Strategy,0,76,38,True,False,False
+4560,Company of Heroes - Legacy Edition,0.0,2007-07-17,18,Violent;Action;Strategy,0,4772,320,True,False,False
+4570,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",9.99,2007-08-07,16,Strategy,0,3485,206,True,False,False
+4580,"Warhammer® 40,000: Dawn of War® - Dark Crusade",9.99,2007-08-07,16,Strategy,0,2849,133,True,False,False
+4700,Total War: MEDIEVAL II – Definitive Edition,0.0,2006-11-15,0,Strategy,0,10270,605,True,True,True
+4720,Condemned: Criminal Origins,9.99,2012-10-29,18,Action,0,1243,221,True,False,False
+4760,Rome: Total War™ - Collection,8.99,2007-08-28,0,Strategy,0,7806,562,True,False,False
+4770,Rome: Total War™ - Alexander,8.99,2007-08-28,0,Strategy,0,331,131,True,False,False
+4780,Medieval II: Total War™ Kingdoms,0.0,2007-08-28,0,Strategy,0,585,30,True,True,True
+4800,Heroes of Annihilated Empires,9.99,2006-11-22,0,Strategy,0,259,46,True,False,False
+4850,Cossacks: Back to War,3.99,2010-09-02,0,Strategy,0,1081,143,True,False,False
+4870,Cossacks: Art of War,3.99,2011-08-26,0,Strategy,0,102,22,True,False,False
+4880,Cossacks: European Wars,3.99,2011-08-26,0,Strategy,0,170,66,True,False,False
+4890,Cossacks II: Battle for Europe,3.99,2011-08-26,0,Strategy,0,246,138,True,False,False
+4900,Zen of Sudoku,0.0,2006-12-14,0,Casual;Indie,0,122,17,True,False,False
+4920,Natural Selection 2,6.99,2012-10-30,0,Action;Indie;Strategy,67,8372,1498,True,False,True
+6000,STAR WARS™ Republic Commando™,7.19,2009-07-08,0,Action,0,6392,379,True,False,False
+6010,Indiana Jones® and the Fate of Atlantis™,4.79,2009-07-08,0,Adventure,0,597,31,True,True,False
+6020,STAR WARS™ Jedi Knight - Jedi Academy™,7.19,2009-09-16,0,Action,0,5684,330,True,True,False
+6030,STAR WARS™ Jedi Knight II - Jedi Outcast™,7.19,2009-09-16,0,Action,0,2020,219,True,True,False
+6040,The Dig®,4.79,2009-07-08,0,Adventure,0,575,55,True,True,False
+6060,"Star Wars: Battlefront 2 (Classic, 2005)",7.19,2009-07-08,0,Action,0,29149,2425,True,False,False
+6080,Thrillville®: Off the Rails™,7.19,2009-07-08,0,Action;Adventure;Racing;Simulation;Strategy,0,272,38,True,False,False
+6090,Armed and Dangerous®,4.79,2009-07-08,0,Action,0,115,18,True,False,False
+6120,Shank,7.19,2010-10-25,0,Action;Indie,12,1749,227,True,True,True
+6200,Ghost Master®,3.99,2006-12-21,0,Strategy,0,1025,164,True,False,False
+6210,Vegas: Make It Big™,3.99,2006-12-21,0,Strategy,0,91,33,True,False,False
+6220,FlatOut,4.99,2007-02-02,0,Racing,0,1977,186,True,False,False
+6250,Making History: The Calm & the Storm,3.99,2007-03-13,0,Action;Strategy,0,460,107,True,False,False
+6270,Ducati World Championship,3.99,2007-09-21,0,Racing,0,77,100,True,False,False
+6300,Dreamfall: The Longest Journey,13.99,2007-01-12,0,Adventure;RPG,0,588,89,True,False,False
+6310,The Longest Journey,5.99,2007-05-01,0,Action;Adventure;RPG,0,1152,102,True,False,False
+6370,Bloodline Champions,0.0,2011-10-28,0,Action;Free to Play;Massively Multiplayer,0,1365,226,True,False,False
+6400,Joint Task Force,5.79,2007-03-27,0,Action;Strategy,0,100,15,True,False,False
+6420,Nexus - The Jupiter Incident,6.99,2007-07-03,0,Indie;Simulation;Strategy,0,474,90,True,False,False
+6510,Lost Planet™: Extreme Condition,9.99,2007-06-29,0,Action;Adventure,0,569,178,True,False,False
+6550,Devil May Cry® 3 Special Edition,15.99,2007-06-12,0,Action,0,1462,1052,True,False,False
+6800,Commandos: Behind Enemy Lines,3.99,2007-03-15,0,Action,0,1561,213,True,False,False
+6810,Commandos: Beyond the Call of Duty,3.99,2007-03-15,0,Action,0,404,71,True,False,False
+6830,Commandos 2: Men of Courage,3.99,2007-03-15,0,Action,0,1333,238,True,False,False
+6840,Commandos 3: Destination Berlin,3.99,2007-03-15,0,Action,0,421,265,True,False,False
+6850,Hitman 2: Silent Assassin,8.29,2007-03-15,16,Action,0,1514,260,True,False,False
+6860,Hitman: Blood Money,9.29,2007-03-15,18,Action,0,5864,391,True,False,False
+6870,Battlestations: Midway,4.99,2007-03-15,0,Action,0,316,113,True,False,False
+6880,Just Cause,4.99,2007-03-15,16,Action,0,1732,846,True,False,False
+6900,Hitman: Codename 47,7.19,2007-03-15,18,Action,0,1186,450,True,False,False
+6910,Deus Ex: Game of the Year Edition,4.99,2007-03-29,16,Action,0,6242,347,True,False,False
+6920,Deus Ex: Invisible War,4.99,2007-03-29,16,Action,0,649,433,True,False,False
+6980,Thief: Deadly Shadows,6.99,2007-03-29,0,Action,0,1135,210,True,False,False
+7000,Tomb Raider: Legend,4.99,2007-03-29,16,Action;Adventure,0,1656,243,True,False,False
+7010,Project: Snowblind,3.99,2007-03-29,0,Action,0,175,61,True,False,False
+7020,Rogue Trooper,6.99,2007-03-29,0,Action,0,248,15,True,False,False
+7110,Jade Empire™: Special Edition,8.99,2007-02-27,0,RPG,0,809,279,True,False,False
+7200,Trackmania United Forever Star Edition,25.99,2008-04-16,0,Racing,0,963,55,True,False,False
+7210,"Runaway, A Road Adventure",6.99,2007-03-14,0,Adventure,0,236,90,True,False,False
+7220,"Runaway, The Dream of The Turtle",6.99,2007-03-14,0,Adventure,0,86,65,True,False,False
+7260,Loki,6.99,2007-10-05,0,RPG,0,69,54,True,False,False
+7340,Azada,6.99,2010-04-21,0,Casual;Indie,0,8,4,True,False,False
+7510,X-Blades,6.99,2009-04-30,0,Nudity;Violent;Action;Adventure;RPG,0,1566,981,True,True,True
+7520,Two Worlds II HD,14.99,2011-02-03,0,Nudity;Violent;RPG,61,3054,2051,True,True,False
+7530,Two Worlds II Castle Defense,6.99,2011-06-14,0,Strategy,0,153,194,True,True,False
+7600,Sid Meier's Railroads!,5.99,2007-05-04,0,Strategy,0,1114,570,True,True,False
+7610,Railroad Tycoon 3,5.99,2007-05-04,0,Strategy,0,355,153,True,False,False
+7620,Railroad Tycoon II Platinum,2.99,2007-05-04,0,Strategy,0,420,82,True,False,False
+7650,X-COM: Terror From the Deep,2.99,2007-05-04,0,Strategy,0,385,32,True,False,False
+7660,X-COM: Apocalypse,2.99,2008-09-04,0,Strategy,0,417,53,True,False,False
+7730,X-COM: Interceptor,2.99,2008-09-04,0,Strategy,0,57,54,True,False,False
+7760,X-COM: UFO Defense,2.99,2008-09-04,0,Strategy,0,2165,136,True,False,False
+7770,X-COM: Enforcer,2.99,2008-09-04,0,Strategy,0,146,138,True,False,False
+7830,Men of War™,3.99,2009-05-06,0,Strategy,0,1664,257,True,False,False
+7840,Death Track®: Resurrection,1.99,2009-05-06,0,Racing,0,34,50,True,False,False
+7860,NecroVision,3.99,2009-05-20,0,Action,0,539,270,True,False,False
+7940,Call of Duty® 4: Modern Warfare®,19.99,2007-11-12,0,Action,0,8725,821,True,True,False
+8000,Tomb Raider: Anniversary,6.99,2007-06-05,16,Action;Adventure,0,1964,389,True,False,False
+8080,Kane and Lynch: Dead Men™,4.99,2007-12-13,0,Action,0,1223,724,True,False,False
+8100,Conflict: Denied Ops,3.99,2008-02-08,0,Action,0,89,103,True,False,False
+8140,Tomb Raider: Underworld,6.99,2008-11-21,16,Action;Adventure,0,1779,594,True,False,False
+8170,Battlestations Pacific,6.99,2009-05-13,0,Action;Strategy,0,1028,542,True,False,False
+8190,Just Cause 2,9.99,2010-03-23,18,Action;Adventure,50,33636,3231,True,False,False
+8310,Bone: Out From Boneville,0.0,2008-06-17,0,Adventure,0,78,71,True,False,False
+8320,Bone: The Great Cow Race,0.0,2008-06-17,0,Adventure,0,44,33,True,False,False
+8330,Telltale Texas Hold ‘Em,1.99,2008-06-17,0,Casual,0,69,77,True,False,False
+8340,Strong Bad's Cool Game for Attractive People: Season 1,22.99,2008-12-18,0,Adventure,0,218,25,True,True,False
+8400,Geometry Wars: Retro Evolved,2.99,2007-06-18,0,Casual,0,583,62,True,False,False
+8500,EVE Online,0.0,2010-12-15,0,Action;Free to Play;Massively Multiplayer;RPG;Strategy,0,8317,2832,True,True,False
+8600,RACE 07,2.49,2007-10-15,0,Racing,0,1684,348,True,False,False
+8790,GTR 2 FIA GT Racing Game,4.99,2012-12-12,0,Racing;Simulation;Sports,0,174,16,True,False,False
+8800,Civilization IV: Beyond the Sword,5.99,2007-07-24,0,Strategy,0,1396,66,True,True,False
+8870,BioShock Infinite,19.99,2013-03-25,18,Action,80,79442,3846,True,True,True
+8880,Freedom Force,2.99,2009-05-29,0,RPG;Strategy,0,197,150,True,False,False
+8890,Freedom Force vs. the Third Reich,2.99,2009-05-29,0,RPG;Strategy,0,121,28,True,False,False
+8930,Sid Meier's Civilization® V,19.99,2010-09-23,0,Strategy,286,129030,5565,True,True,True
+8970,Axel & Pixel,3.49,2010-10-06,0,Indie,12,35,14,True,False,False
+9000,Spear of Destiny,2.49,2007-08-03,0,Action,0,200,36,True,False,False
+9010,Return to Castle Wolfenstein,3.99,2007-08-03,0,Action,0,3084,276,True,False,False
+9030,QUAKE Mission Pack 2: Dissolution of Eternity,2.49,2007-08-03,0,Action,0,143,15,True,False,False
+9040,QUAKE Mission Pack 1: Scourge of Armagon,2.49,2007-08-03,0,Action,0,205,13,True,False,False
+9050,DOOM 3,0.0,2007-08-03,0,Action,0,2633,376,True,False,False
+9060,HeXen II,2.99,2007-08-03,0,Action,0,173,39,True,False,False
+9160,Master Levels for Doom II,0.0,2007-08-03,0,Action,0,310,69,True,False,False
+9180,Commander Keen,2.99,2007-08-03,0,Action,0,737,51,True,False,False
+9200,RAGE,7.99,2011-10-03,16,Action,60,9394,2882,True,False,False
+9310,"Warhammer® 40,000: Dawn of War® – Winter Assault",9.99,2007-08-07,16,Strategy,0,606,76,True,False,False
+9340,Company of Heroes: Opposing Fronts,9.99,2007-09-24,0,Action;Strategy,0,579,52,True,False,False
+9350,Supreme Commander,8.99,2011-09-28,0,Strategy,0,1065,162,True,False,False
+9420,Supreme Commander: Forged Alliance,8.99,2011-09-28,0,Strategy,0,4969,174,True,False,False
+9450,"Warhammer® 40,000: Dawn of War® - Soulstorm",9.99,2008-03-07,16,Strategy,0,4887,286,True,False,False
+9460,Frontlines™: Fuel of War™,9.99,2008-02-29,0,Action,0,378,229,True,False,False
+9480,Saints Row 2,9.99,2009-01-07,0,Action,0,9442,2881,True,False,True
+9500,Gish,5.99,2007-07-20,0,Indie,11,160,94,True,True,False
+9710,Desperados 2: Cooper's Revenge,6.99,2008-03-12,0,Action,0,42,54,True,False,False
+9760,Act of War: High Treason,1.99,2008-03-12,0,Action,0,157,38,True,False,False
+9800,Death to Spies,3.99,2008-03-12,0,Action;Adventure,0,428,145,True,False,False
+9850,Codename: Panzers - Cold War,13.99,2009-05-06,0,Simulation;Strategy,0,82,56,True,False,False
+9880,Champions Online,0.0,2011-06-14,0,Free to Play;Massively Multiplayer;RPG,709,2081,823,True,False,False
+9900,Star Trek Online,0.0,2012-01-31,0,Free to Play;Massively Multiplayer;RPG,0,7639,2391,True,False,False
+9940,Blade Kitten,1.99,2014-05-22,0,Action;Adventure,20,746,149,True,False,False
+9960,Haunted House™,4.79,2010-09-28,0,Adventure,0,9,13,True,False,False
+9970,Star Raiders,6.99,2011-05-11,0,Action,12,5,24,True,False,False
+9980,The UnderGarden,4.99,2010-11-10,0,Casual,0,48,24,True,False,False
+10090,Call of Duty: World at War,19.99,2008-11-18,16,Action,0,19595,1483,True,False,False
+10100,King's Quest™ Collection,14.99,2009-07-23,0,Adventure,0,125,32,True,False,False
+10110,Space Quest™ Collection,9.99,2009-07-23,0,Adventure,0,143,42,True,False,False
+10120,Aces of the Galaxy™,6.99,2009-07-23,0,Action;Casual,0,14,16,True,False,False
+10130,TimeShift™,9.99,2009-07-23,0,Action,0,623,159,True,False,False
+10140,3D Ultra™ Minigolf Adventures,6.99,2009-07-23,0,Sports,0,50,28,True,False,False
+10150,Prototype™,14.99,2009-06-12,0,Action;Adventure,0,3702,904,True,False,False
+10180,Call of Duty®: Modern Warfare® 2,19.99,2009-11-11,0,Action,50,30006,2826,True,True,False
+10220,Postal III,8.99,2012-02-17,18,Action,38,641,1101,True,False,False
+10230,Dead Mountaineer's Hotel,5.59,2011-10-28,0,Adventure,0,25,63,True,False,False
+10240,A Stroke of Fate: Operation Valkyrie,4.99,2011-10-28,0,Adventure,0,15,10,True,False,False
+10250,PT Boats: Knights of the Sea,4.99,2011-10-28,0,Simulation,0,12,12,True,False,False
+10260,PT Boats: South Gambit,4.99,2011-10-28,0,Simulation,0,5,10,True,False,False
+10270,Disciples III: Reincarnation,9.99,2014-02-14,0,RPG;Strategy,0,618,252,True,False,False
+10460,The Club™,9.99,2008-02-20,0,Action,0,47,50,True,False,False
+10500,Total War: EMPIRE – Definitive Edition,19.99,2009-03-04,0,Strategy,30,14928,1719,True,True,True
+10680,Aliens vs. Predator™,9.99,2010-02-16,0,Action,50,9448,1186,True,False,False
+11020,TrackMania Nations Forever,0.0,2008-04-16,0,Racing,0,8252,1244,True,False,False
+11040,Sherlock Holmes - Nemesis,6.99,2008-08-07,0,Adventure;RPG,0,114,43,True,False,False
+11050,Dracula Origin,6.99,2008-08-07,0,Adventure,0,94,45,True,False,False
+11130,Sherlock Holmes: The Mystery of the Mummy,0.0,2009-08-06,0,Adventure,0,59,130,True,False,False
+11140,Sherlock Holmes: The Awakened - Remastered Edition,6.99,2009-08-06,0,Adventure,0,178,49,True,False,False
+11150,Sherlock Holmes: The Silver Earring,6.99,2009-08-06,0,Adventure,0,98,54,True,False,False
+11190,Sherlock Holmes versus Jack the Ripper,6.99,2009-12-23,0,Adventure;RPG,0,300,94,True,False,False
+11200,Shadowgrounds Survivor,6.99,2007-11-14,0,Action,0,328,239,True,True,False
+11230,Gumboy Tournament,1.79,2008-05-19,0,Casual;Indie;Racing,0,351,142,True,False,False
+11240,Space Trader: Merchant Marine,3.99,2008-10-23,0,Action;Indie;Strategy,40,299,310,True,False,False
+11250,Pacific Storm,5.59,2008-06-24,0,Simulation;Strategy,0,20,9,True,False,False
+11260,Pacific Storm Allies,5.59,2008-08-18,0,Simulation;Strategy,0,78,56,True,False,False
+11280,Penguins Arena: Sedna's World,4.79,2008-12-18,0,Action;Casual;Indie,10,902,129,True,True,False
+11330,Obulis,3.99,2009-03-19,0,Casual;Indie,17,586,130,True,False,False
+11340,Larva Mortus,3.99,2009-03-19,0,Action;Indie,25,523,161,True,False,False
+11360,Chains,3.99,2009-07-01,0,Indie,0,433,148,True,True,False
+11450,Overlord™,3.49,2009-11-12,0,RPG,0,3439,276,True,True,True
+11480,Soldiers: Heroes of World War II,3.99,2014-07-03,0,Strategy,0,273,61,True,False,False
+11560,Maelstrom: The Battle for Earth Begins,3.49,2009-02-13,0,Strategy,0,69,44,True,False,False
+11590,Hospital Tycoon,3.49,2009-02-13,0,Simulation,0,175,301,True,False,False
+12100,Grand Theft Auto III,5.99,2008-01-04,18,Action,0,4718,750,True,False,False
+12110,Grand Theft Auto: Vice City,5.99,2011-01-10,18,Action,0,9817,819,True,False,False
+12120,Grand Theft Auto: San Andreas,9.99,2008-01-04,18,Action,0,26877,3243,True,False,False
+12130,Manhunt,5.99,2008-01-04,18,Action,0,816,433,True,False,False
+12140,Max Payne,5.99,2008-01-04,18,Action,0,3926,435,True,False,False
+12150,Max Payne 2: The Fall of Max Payne,5.99,2008-01-04,18,Action,0,2506,172,True,False,False
+12170,Grand Theft Auto,0.0,2008-01-04,0,Action,0,199,30,True,False,False
+12180,Grand Theft Auto 2,0.0,2008-01-04,0,Action,0,184,17,True,False,False
+12200,Bully: Scholarship Edition,9.99,2008-10-21,0,Action;Adventure,0,8504,1764,True,False,False
+12210,Grand Theft Auto IV,19.99,2008-12-02,0,Action;Adventure,0,35240,18926,True,False,False
+12220,Grand Theft Auto: Episodes from Liberty City,14.99,2010-04-12,18,Action,0,6401,2345,True,False,False
+12310,Culpa Innata,6.99,2008-01-18,0,RPG;Casual;Adventure,0,57,14,True,False,False
+12320,Sacred Gold,6.99,2008-07-09,0,Action;RPG,0,1489,319,True,False,False
+12330,Darkstar One,6.99,2008-02-13,0,Action,0,256,59,True,False,False
+12340,Jack Keane,6.99,2008-06-27,0,Adventure,0,46,27,True,False,False
+12360,FlatOut: Ultimate Carnage,16.99,2008-08-26,0,Racing,0,1967,394,True,False,False
+12390,Exodus from the Earth ,10.99,2008-10-24,0,Action,0,51,44,True,False,False
+12420,Perimeter 2: New Earth,10.99,2009-02-10,0,Strategy,0,12,41,True,False,False
+12430,SlamIt Pinball Big Score,3.99,2009-02-23,0,Casual,0,31,69,True,False,False
+12440,Ankh 2: Heart of Osiris ,10.99,2009-06-16,0,Adventure,0,23,17,True,False,False
+12450,Ankh 3: Battle of the Gods,10.99,2009-06-16,0,Adventure,0,12,8,True,False,False
+12460,BC Kings,3.99,2009-06-16,0,Strategy,0,85,76,True,False,False
+12470,Port Royale 2,2.99,2009-06-16,0,Strategy,0,174,95,True,False,False
+12480,9th Company: Roots Of Terror,6.99,2009-12-03,0,Strategy,0,86,67,True,False,False
+12500,PuzzleQuest: Challenge of the Warlords,6.99,2008-01-29,0,Casual,0,561,80,True,False,False
+12510,Prison Tycoon 3™: Lockdown,6.99,2008-01-29,0,Strategy,0,18,89,True,False,False
+12520,18 Wheels of Steel: American Long Haul,6.99,2008-01-29,0,Racing,0,245,111,True,False,False
+12530,Hunting Unlimited™ 2008,4.99,2008-01-29,0,Action;Adventure;Strategy,0,29,9,True,False,False
+12540,Mahjongg Investigations: Under Suspicion,5.99,2008-07-29,0,Casual,0,21,6,True,False,False
+12560,Ride! Carnival Tycoon,4.99,2008-07-29,0,Simulation,0,15,26,True,False,False
+12590,Sprint Cars Road to Knoxville,4.99,2008-07-29,0,Racing,0,25,24,True,False,False
+12600,Midnight Outlaw: 6 Hours to SunUp,4.99,2008-07-29,0,Racing,0,10,27,True,False,False
+12640,Drakensang,6.99,2009-03-09,0,RPG,0,238,72,True,False,False
+12670,Mission Runway,4.99,2009-07-17,0,Simulation,0,14,6,True,False,False
+12710,Overlord™: Raising Hell,6.99,2009-11-12,0,RPG,0,946,75,True,True,True
+12770,Rise of the Argonauts,4.99,2009-01-07,0,RPG,0,365,178,True,False,False
+12790,Damnation,6.99,2009-05-22,0,Action;Adventure,0,132,182,True,False,False
+12810,Overlord II,6.99,2009-06-24,0,RPG,0,2116,306,True,True,True
+12830,Operation Flashpoint: Dragon Rising,6.99,2009-10-08,0,Action,0,1024,580,True,False,False
+13000,Ninja Reflex: Steamworks Edition,3.99,2008-03-21,0,Casual;Indie,52,48,4,True,False,False
+13140,America's Army 3,0.0,2009-06-17,0,Action,71,1515,723,True,False,False
+13200,Unreal 2: The Awakening,8.99,2008-03-17,0,Action,0,240,100,True,False,False
+13210,Unreal Tournament 3 Black,13.99,2009-03-05,0,Action,57,2414,278,True,False,False
+13230,Unreal Tournament 2004: Editor's Choice Edition,8.99,2004-03-17,0,Action,0,2211,66,True,False,False
+13240,Unreal Tournament: Game of the Year Edition,5.99,2008-03-17,0,Action,0,2134,65,True,False,False
+13250,Unreal Gold,5.99,2008-03-17,0,Action,0,1228,132,True,False,False
+13500,Prince of Persia: Warrior Within™,8.59,2009-08-27,0,Action;Adventure,0,657,101,True,False,False
+13520,Far Cry®,8.59,2008-04-01,0,Action,0,3099,609,True,False,False
+13530,Prince of Persia: The Two Thrones™,8.59,2009-08-27,0,Action;Adventure,0,365,109,True,False,False
+13540,Tom Clancy's Rainbow Six® Vegas,8.59,2008-04-09,0,Action,0,371,106,True,False,False
+13560,Tom Clancy's Splinter Cell®,4.29,2008-04-01,0,Action,0,900,147,True,False,False
+13570,Tom Clancy's Splinter Cell Chaos Theory®,8.59,2009-08-27,0,Action,0,1777,140,True,False,False
+13580,Tom Clancy's Splinter Cell Double Agent®,8.59,2009-02-13,0,Action,0,356,454,True,False,False
+13600,Prince of Persia®: The Sands of Time,8.59,2009-08-27,0,Action;Adventure,0,831,122,True,False,False
+13620,Tom Clancy's Ghost Recon® Desert Siege™,4.29,2008-07-15,0,Action,0,34,2,True,False,False
+15000,Tom Clancy's Rainbow Six Lockdown™,4.29,2009-08-27,0,Action,0,80,79,True,False,False
+15080,Rayman Raving Rabbids™,4.29,2008-06-13,0,Action;Adventure,0,239,80,True,False,False
+15100,Assassin's Creed™: Director's Cut Edition,8.59,2008-04-09,0,Action;Adventure,0,5743,1162,True,False,False
+15120,Tom Clancy's Rainbow Six® Vegas 2,8.59,2008-04-16,0,Action,0,2582,456,True,False,False
+15130,Beyond Good and Evil™,4.29,2008-05-13,0,Action;Adventure,0,1823,186,True,False,False
+15160,Petz® Horsez® 2,4.29,2009-08-27,0,Simulation,0,76,38,True,False,False
+15170,Heroes of Might & Magic V,8.59,2008-05-13,0,Strategy,0,1258,183,True,False,False
+15190,Brothers in Arms: Road to Hill 30™,4.29,2008-05-13,0,Action,0,624,100,True,False,False
+15200,Silent Hunter®: Wolves of the Pacific,8.59,2009-08-27,0,Simulation,0,234,128,True,False,False
+15210,Silent Hunter® III,4.29,2008-06-13,0,Simulation,0,685,113,True,False,False
+15240,Silent Hunter®: Wolves of the Pacific U-Boat Missions,4.29,2009-08-27,0,Simulation,0,70,24,True,False,False
+15270,Cold Fear™,4.29,2008-05-13,0,Action,0,272,40,True,False,False
+15300,Tom Clancy's Ghost Recon®,8.59,2008-07-15,0,Action,0,536,45,True,False,False
+15320,IL-2 Sturmovik: 1946,8.69,2008-06-13,0,Simulation,0,1287,185,True,False,False
+15370,Heroes of Might & Magic V: Tribes of the East,8.59,2008-10-10,0,Strategy,0,759,66,True,False,False
+15380,Heroes of Might & Magic V: Hammers of Fate,8.59,2008-10-10,0,Strategy,0,84,21,True,False,False
+15390,Brothers in Arms: Hell's Highway™,8.59,2008-10-08,0,Action,0,823,98,True,False,False
+15400,Harvest: Massive Encounter,5.79,2009-01-23,0,Strategy;Indie,25,89,21,True,True,True
+15500,The Wonderful End of the World,6.99,2008-07-17,0,Indie;Casual,11,402,135,True,False,False
+15520,AaAaAA!!! - A Reckless Disregard for Gravity,6.99,2009-09-03,0,Action;Indie;Sports,7,547,103,True,False,False
+15560,AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,6.99,2011-11-23,0,Action;Indie;Sports,10,747,252,True,True,True
+15620,"Warhammer 40,000: Dawn of War II",14.99,2009-02-18,0,Strategy,73,5626,755,True,True,True
+15700,Oddworld: Abe's Oddysee®,1.99,2008-08-28,0,Adventure,0,2739,442,True,False,False
+15710,Oddworld: Abe's Exoddus®,1.99,2008-08-28,0,Adventure,0,806,48,True,False,False
+15740,Oddworld: Munch's Oddysee,3.99,2010-12-20,0,Action;Adventure;Strategy,38,437,155,True,False,False
+15750,Oddworld: Stranger's Wrath HD,6.99,2010-12-20,0,Action;Adventure;Strategy,36,759,139,True,False,False
+15800,Planet Busters,5.99,2008-06-30,0,Indie;Casual,9,1,1,True,False,False
+15900,7 Wonders II,6.99,2008-06-10,0,Casual,0,92,29,True,False,False
+15910,Luxor Amun Rising,5.99,2008-06-10,0,Casual,0,6,3,True,False,False
+15920,Luxor 2,5.99,2008-06-10,0,Casual,0,7,14,True,False,False
+15930,Luxor 3,5.99,2008-06-10,0,Casual,0,52,14,True,False,False
+15960,Little Farm,5.99,2008-06-10,0,Casual,0,73,35,True,False,False
+15970,Luxor,5.99,2008-06-10,0,Casual,0,29,14,True,True,False
+16000,Discovery! A Seek and Find Adventure,6.99,2008-07-29,0,Casual,0,20,29,True,False,False
+16020,Samantha Swift and the Hidden Roses of Athena,5.99,2008-10-31,0,Casual,0,30,23,True,False,False
+16030,7 Wonders: Treasures of Seven,6.99,2008-11-14,0,Casual,0,57,21,True,False,False
+16040,Luxor: Quest for the Afterlife ,5.99,2008-12-15,0,Casual,0,29,14,True,False,False
+16060,Samantha Swift and the Golden Touch,5.99,2009-04-29,0,Casual,0,26,25,True,False,False
+16100,Virtual Villagers: A New Home,5.99,2008-05-12,0,Casual;Simulation,0,20,7,True,False,False
+16110,Virtual Villagers: The Lost Children,5.99,2008-05-12,0,Casual;Simulation,0,11,3,True,False,False
+16120,Plant Tycoon,5.99,2008-05-12,0,Casual;Simulation,0,48,5,True,False,False
+16130,Fish Tycoon,5.99,2008-05-12,0,Casual;Simulation,0,35,8,True,False,False
+16180,Virtual Villagers - The Secret City,5.99,2008-05-28,0,Casual;Simulation,0,32,7,True,False,False
+16200,Virtual Families,7.49,2009-05-06,0,Casual;Simulation,0,20,7,True,False,False
+16450,F.E.A.R. 2: Project Origin,9.99,2009-02-12,0,Action,0,3274,509,True,False,False
+16500,Chaos Theory,1.99,2008-05-22,0,Casual;Indie,12,10,1,True,False,False
+16600,Trials 2: Second Edition,5.99,2008-05-28,0,Indie;Racing;Sports,25,169,33,True,False,False
+16620,Monster Trucks Nitro ,16.99,2009-01-29,0,Indie;Racing;Sports,0,21,13,True,True,False
+16710,Insecticide Part 1,0.79,2008-07-01,0,Action;Adventure,0,308,110,True,False,False
+16720,Velvet Assassin,1.69,2009-05-01,0,Action,0,1219,832,True,True,False
+16730,Legendary,1.69,2008-12-01,0,Action,0,1095,1000,True,False,False
+16810,Sid Meier's Civilization IV: Colonization,9.99,2008-09-23,0,Strategy,0,330,95,True,True,False
+16900,GROUND BRANCH,15.49,2018-08-14,0,Action;Indie;Early Access,0,599,143,True,False,False
+17080,Tribes: Ascend,0.0,2012-06-27,0,Action;Free to Play,0,6470,1738,True,False,False
+17100,Children of the Nile: Enhanced Edition,5.99,2008-07-08,0,Strategy;Simulation,16,180,38,True,False,False
+17120,Children of the Nile: Alexandria,1.49,2008-09-22,0,Strategy;Simulation,4,54,13,True,False,False
+17140,Hinterland,6.99,2008-09-30,0,RPG;Strategy,9,113,38,True,False,False
+17180,Mosby's Confederacy,6.99,2008-11-19,0,Strategy,13,15,6,True,False,False
+17300,Crysis,9.99,2008-09-17,0,Action,0,6075,1277,True,False,False
+17330,Crysis Warhead®,7.99,2008-09-17,0,Action,0,1694,312,True,False,False
+17390,SPORE™,14.99,2008-12-19,0,Simulation,0,15101,2014,True,False,False
+17410,Mirror's Edge™,9.99,2009-01-14,0,Action;Adventure,0,17880,2341,True,False,False
+17430,Need for Speed Undercover,9.99,2008-12-19,0,Action;Racing,0,2351,1081,True,False,False
+17440,SPORE™ Creepy & Cute Parts Pack,9.99,2008-12-19,0,Simulation,0,481,100,True,False,False
+17450,Dragon Age: Origins,14.99,2009-11-05,0,RPG,0,6207,468,True,False,False
+17460,Mass Effect,7.99,2008-12-19,0,Action;RPG,0,10107,666,True,False,False
+17470,Dead Space,14.99,2009-01-09,0,Action,0,9136,1049,True,False,False
+17480,Command & Conquer: Red Alert 3,9.99,2009-01-08,0,Strategy,0,4390,855,True,False,False
+17500,Zombie Panic! Source,0.0,2008-10-03,0,Action;Free to Play;Indie,106,5267,914,True,False,True
+17570,"Pirates, Vikings, and Knights II",0.0,2010-02-12,0,Action;Free to Play;Indie,247,3839,582,True,True,True
+17710,Nuclear Dawn,6.99,2011-09-26,0,Action;Strategy,58,1675,441,True,True,True
+17740,Empires Mod,0.0,2008-07-28,0,Action;Free to Play;Strategy,8,663,115,True,False,True
+18000,"Precipice of Darkness, Episode One",5.99,2008-05-21,0,Adventure;RPG,12,394,42,True,False,False
+18020,"Precipice of Darkness, Episode Two",5.99,2008-11-07,0,Adventure;RPG,12,118,23,True,False,False
+18040,DeathSpank,7.99,2010-10-25,0,Action;Indie;RPG,12,540,34,True,True,False
+18050,DeathSpank: Thongs of Virtue,7.99,2010-11-30,0,Action;RPG;Indie,13,125,18,True,True,False
+18070,The Baconing,9.99,2011-08-31,0,Action;Adventure;RPG,12,149,37,True,True,False
+18120,Unstoppable Gorg,6.99,2012-01-19,0,Action;Casual;Indie;Strategy,30,190,48,True,True,False
+18300,Spectraball,3.99,2008-10-20,0,Casual;Indie,14,297,101,True,True,True
+18400,Crazy Machines 2,7.19,2008-06-20,0,Casual;Strategy,0,97,108,True,False,False
+18420,Crazy Machines,6.99,2008-12-12,0,Casual;Strategy,0,98,24,True,False,False
+18470,Helldorado,6.99,2009-04-30,0,Strategy,0,53,23,True,False,False
+18480,Mata Hari,3.99,2009-07-29,0,Adventure,0,53,37,True,False,False
+18500,Defense Grid: The Awakening,6.99,2008-12-08,0,Indie;Strategy,87,3307,113,True,False,False
+18600,Mayhem Intergalactic,6.99,2009-01-22,0,Indie;Strategy,21,12,10,True,False,False
+18700,And Yet It Moves,6.99,2009-04-02,0,Action;Indie,30,735,327,True,True,True
+18820,Zero Gear,3.99,2010-01-12,0,Action;Indie;Racing;Sports,45,652,173,True,False,False
+19000,Silent Hill Homecoming,17.99,2009-03-02,0,Adventure,0,480,437,True,False,False
+19020,Puzzle Chronicles,7.99,2010-06-25,0,Casual;RPG,12,16,8,True,False,False
+19030,Rocket Knight,11.99,2010-06-25,0,Action;Adventure,16,70,22,True,False,False
+19080,Biozone,7.99,2010-06-25,0,Action;Adventure;Casual,0,1,13,True,False,False
+19200,Tank Universal,3.99,2008-08-21,0,Action;Indie,27,226,190,True,False,False
+19320,Space Ark,3.99,2012-03-16,0,Action;Indie;Casual,11,6,8,True,False,False
+19500,Eternity's Child,2.99,2008-07-31,0,Adventure;Indie,4,16,47,True,False,False
+19800,Brothers in Arms: Earned in Blood™,4.29,2008-10-10,0,Action,0,303,53,True,False,False
+19830,Tom Clancy's Rainbow Six® 3 Gold,4.29,2008-09-25,0,Action,0,811,71,True,False,False
+19900,Far Cry® 2: Fortune's Edition,8.59,2008-10-22,0,Action,0,5292,1739,True,False,False
+19980,Prince of Persia®,8.59,2008-12-10,0,Action;Adventure,0,948,266,True,False,False
+20200,Galactic Bowling,13.99,2008-10-21,0,Indie;Casual;Sports,30,6,10,True,False,False
+20510,S.T.A.L.K.E.R.: Clear Sky,7.99,2008-09-15,0,Action;RPG,0,5550,903,True,False,False
+20530,Red Faction,4.99,2009-08-05,0,Action,0,1327,151,True,False,False
+20540,Company of Heroes: Tales of Valor,9.99,2009-04-08,0,Strategy,0,1337,101,True,False,False
+20550,Red Faction II,4.99,2009-08-06,0,Action;Strategy,0,354,313,True,False,False
+20570,"Warhammer® 40,000: Dawn of War® II Chaos Rising",14.99,2010-03-11,16,Strategy,73,1645,164,True,True,True
+20700,Starscape,5.99,2008-11-03,0,Action;Indie;Strategy,18,50,15,True,False,False
+20710,Mr. Robot,5.99,2008-11-03,0,Action;Indie;Strategy,13,55,12,True,False,False
+20820,Shatter,6.99,2010-03-15,0,Action;Indie,30,963,64,True,True,True
+20900,The Witcher: Enhanced Edition Director's Cut,6.99,2008-09-16,0,Action;RPG,0,26380,4217,True,True,False
+20920,The Witcher 2: Assassins of Kings Enhanced Edition,14.99,2012-04-16,0,RPG,52,36427,4710,True,True,True
+21000,LEGO® Batman™: The Videogame,14.99,2008-09-29,0,Action;Adventure,0,1050,242,True,False,False
+21010,Watchmen: The End is Nigh,3.99,2009-03-04,0,Action,0,227,120,True,False,False
+21030,Watchmen: The End is Nigh Part 2,3.99,2009-07-29,16,Action,0,97,51,True,False,False
+21090,F.E.A.R.,35.96,2010-05-21,18,Action,0,6371,438,True,False,False
+21100,F.E.A.R. 3,12.99,2011-06-21,18,Action,50,5349,2030,True,False,False
+21130,LEGO® Harry Potter: Years 1-4,9.99,2010-06-25,0,Action;Adventure,0,1672,460,True,False,False
+21300,Gravitron 2,2.99,2008-09-30,0,Indie;Casual,10,19,8,True,False,False
+21400,Project Aftermath,4.79,2008-10-03,0,Strategy;Action;Indie,92,10,5,True,False,False
+21500,Pyroblazer®,4.99,2008-11-13,0,Racing,0,5,3,True,False,False
+21640,Flock!,3.49,2009-04-07,0,Casual;Strategy,13,110,34,True,False,False
+21660,Street Fighter® IV,13.99,2009-07-07,0,Action,0,295,126,True,False,False
+21670,Bionic Commando,6.49,2009-07-28,0,Action;Adventure,0,649,247,True,False,False
+21680,Bionic Commando: Rearmed,6.49,2009-07-28,18,Action,0,453,287,True,False,False
+21690,Resident Evil™ 5/ Biohazard 5®,13.99,2009-09-15,18,Action;Adventure,70,9250,1618,True,False,False
+21780,Driver® Parallel Lines,8.59,2009-02-13,0,Racing,0,367,46,True,False,False
+21800,Tom Clancy's EndWar™,8.59,2009-02-25,0,Strategy,0,276,108,True,False,False
+21980,Call of Juarez®: Bound in Blood,8.59,2009-07-02,0,Action,0,1121,232,True,False,False
+22000,World of Goo,6.99,2008-10-13,0,Indie,8,3455,237,True,True,True
+22100,Mount & Blade,7.99,2008-11-03,0,Indie;RPG,0,3205,291,True,False,False
+22120,Penumbra: Black Plague Gold Edition,0.0,2009-01-23,0,Nudity;Gore;Action;Adventure;Indie,0,1396,79,True,True,True
+22130,Hearts of Iron 2 Complete,9.99,2009-01-23,0,Strategy,0,220,48,True,False,False
+22180,Penumbra Overture,0.0,2009-03-06,0,Gore;Action;Adventure;Indie,0,1660,164,True,True,True
+22200,Zeno Clash,6.99,2009-04-21,0,Action;Indie,22,1980,356,True,False,False
+22230,Rock of Ages,6.99,2011-09-07,0,Action;Indie;Racing;Strategy,19,2604,244,True,False,False
+22300,Fallout 3,7.99,2008-10-28,0,RPG,0,9921,2709,True,False,False
+22310,Rogue Warrior,3.99,2009-12-01,0,Action,45,466,240,True,False,False
+22320,The Elder Scrolls III: Morrowind® Game of the Year Edition,12.99,2009-06-16,0,RPG,0,9571,540,True,False,False
+22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition,12.99,2009-06-16,0,RPG,0,13827,826,True,False,False
+22350,BRINK,0.0,2011-05-09,0,Action;Free to Play,43,3493,2331,True,False,False
+22370,Fallout 3: Game of the Year Edition,14.99,2009-12-17,0,RPG,0,17742,4495,True,False,False
+22380,Fallout: New Vegas,7.99,2010-10-21,18,Action;RPG,75,66756,3149,True,False,False
+22450,Hunted: The Demon’s Forge™,3.99,2011-06-02,0,Action;Adventure,0,498,213,True,False,False
+22500,Spectromancer,5.99,2009-02-11,0,Strategy,0,125,19,True,False,False
+22600,Worms Reloaded,14.99,2010-08-26,0,Strategy,61,2478,430,True,True,True
+22610,Alien Breed: Impact,6.99,2010-06-03,0,Action,13,776,307,True,False,False
+22650,Alien Breed 2: Assault,6.99,2010-09-22,0,Action,13,478,226,True,False,False
+22670,Alien Breed 3: Descent,6.99,2010-11-17,0,Action,13,242,90,True,False,False
+23150,Fluttabyes,1.59,2010-04-20,0,Casual;Indie,40,13,5,True,False,False
+23300,Yosumin!™,3.99,2009-05-26,0,Casual,0,102,64,True,False,False
+23380,Gyromancer,3.99,2009-11-18,0,RPG,0,124,113,True,False,False
+23400,Imperium Romanum Gold Edition,7.99,2008-11-25,0,Simulation;Strategy,0,191,45,True,False,False
+23420,Europa Universalis: Rome - Gold Edition ,7.99,2008-12-18,0,Strategy,0,123,52,True,False,False
+23450,Grand Ages: Rome,6.99,2009-03-05,0,Simulation;Strategy,0,354,138,True,False,False
+23460,Ceville,4.79,2009-02-27,0,Action;Adventure;Strategy,0,83,19,True,False,False
+23490,Tropico 3,7.99,2009-11-13,0,Simulation;Strategy,0,1338,176,True,False,False
+23500,Puzzle Quest: Galactrix,6.99,2009-02-24,0,Casual;RPG,0,120,136,True,False,False
+23530,Earth Defense Force: Insect Armageddon,6.99,2011-12-14,0,Action,50,731,95,True,False,False
+23600,Depths of Peril,6.99,2010-11-23,0,Indie;RPG;Strategy,0,69,24,True,True,True
+23700,Puzzle Kingdoms,10.99,2009-04-27,0,Casual,0,139,102,True,False,False
+24010,Train Simulator 2019,34.99,2015-09-17,0,Simulation,1165,8573,5336,True,False,False
+24200,DC Universe™ Online,0.0,2011-11-02,0,Action;Adventure;Free to Play;Massively Multiplayer;RPG,169,10138,2654,True,False,False
+24240,PAYDAY™ The Heist,10.99,2011-10-20,18,Action,56,34645,2533,True,False,False
+24400,King Arthur - The Role-playing Wargame,7.99,2009-11-24,0,RPG;Strategy,0,307,113,True,False,False
+24410,Crusaders: Thy Kingdom Come,6.99,2009-10-08,0,Strategy,0,13,11,True,False,False
+24420,Aquaria,6.99,2008-12-15,0,Indie,27,1008,133,True,False,True
+24460,King Arthur: Fallen Champions,3.99,2011-09-16,0,RPG;Strategy,0,13,20,True,False,False
+24480,King Arthur II: The Role-Playing Wargame,7.99,2012-01-27,0,RPG;Strategy,23,188,169,True,False,False
+24640,Trainz: Classic Cabon City,14.99,2010-09-01,0,Simulation,0,14,29,True,False,False
+24650,Trainz Settle and Carlisle,14.99,2010-10-01,0,Simulation,0,13,17,True,False,False
+24670,Trainz™ Simulator 12,7.19,2011-06-08,0,Simulation,50,498,364,True,False,False
+24720,SPORE™ Galactic Adventures,9.99,2009-06-26,0,Action;Simulation,0,1943,453,True,False,False
+24740,Burnout Paradise: The Ultimate Box,9.99,2009-03-12,0,Racing,0,9739,1487,True,False,False
+24780,SimCity™ 4 Deluxe Edition,9.99,2010-07-20,0,Simulation;Strategy,0,3110,959,True,True,False
+24790,Command & Conquer 3: Tiberium Wars,9.99,2009-11-13,0,Strategy,0,2292,295,True,False,False
+24800,Command & Conquer: Red Alert 3 - Uprising,9.99,2009-10-06,0,Strategy,0,1449,362,True,False,False
+24810,Command & Conquer 3: Kane's Wrath,9.99,2009-11-13,0,Strategy,0,1070,76,True,False,False
+24840,Medal of Honor: Airborne,9.99,2009-10-06,0,Action,0,1725,461,True,False,False
+24870,Need for Speed: Shift,9.99,2009-10-06,0,Racing,0,1101,415,True,False,False
+24960,Battlefield: Bad Company™ 2,14.99,2010-03-02,0,Action,0,23093,3877,True,False,False
+24980,Mass Effect 2,19.99,2010-01-28,0,RPG,0,10675,542,True,False,False
+25000,Overgrowth,22.99,2017-10-16,0,Action;Indie,0,3200,1315,True,True,True
+25010,Lugaru HD,7.99,2010-10-08,0,Action,0,321,98,True,True,True
+25500,Cricket Revolution,1.99,2009-10-28,0,Indie;Simulation;Sports,0,63,50,True,False,False
+25600,Eschalon: Book I,0.0,2009-02-10,0,Indie;RPG,0,167,25,True,True,True
+25620,Eschalon: Book II,4.79,2010-07-12,0,Indie;RPG,0,58,12,True,True,True
+25700,Madballs in Babo:Invasion ,3.99,2009-09-17,0,Indie,17,198,38,True,True,False
+25800,Europa Universalis III Complete,9.99,2009-02-04,0,Strategy,0,1191,245,True,True,False
+25830,Knights of Honor,7.49,2009-02-04,0,Strategy,0,1018,89,True,False,False
+25850,Elven Legacy,3.99,2009-04-07,0,RPG;Strategy,0,76,29,True,False,False
+25890,Hearts of Iron III,7.99,2009-08-07,0,Strategy,0,3298,992,True,True,False
+25900,King's Bounty: The Legend,4.99,2009-05-01,0,RPG;Strategy,0,1290,139,True,True,False
+25910,Supreme Ruler 2020 Gold,6.99,2009-07-09,0,Strategy,0,138,36,True,False,False
+25930,East India Company,7.99,2009-07-31,0,Strategy,0,45,48,True,False,False
+25980,Majesty 2,7.99,2009-09-17,0,Simulation;Strategy,0,305,130,True,False,False
+25990,Majesty Gold HD,7.99,2009-09-04,0,Strategy;Simulation,0,326,20,True,False,False
+26000,The Maw,8.99,2009-03-09,0,Action;Indie,15,161,36,True,False,False
+26300,Drug Wars,3.99,2009-03-17,0,Action;Indie,0,13,31,True,False,False
+26800,Braid,10.99,2009-04-10,0,Casual;Indie;Strategy,12,6529,386,True,True,True
+26900,Crayon Physics Deluxe,15.99,2009-05-06,0,Casual;Indie,0,668,109,True,True,False
+27000,The Path,6.99,2009-03-18,0,Adventure;Indie,0,502,177,True,True,False
+27020,The Graveyard,3.99,2009-03-09,0,Indie;Simulation,0,305,199,True,True,True
+27050,Fatale,4.99,2009-11-04,0,Adventure;Casual;Indie,0,53,44,True,True,False
+27200,Summer Athletics,15.99,2009-04-02,0,Sports,0,14,10,True,False,False
+27330,Blacklight: Tango Down,0.79,2010-07-14,0,Action,12,132,209,True,False,False
+27400,Dangerous High School Girls in Trouble!™,14.99,2009-02-23,0,RPG;Indie;Casual,0,111,63,True,True,False
+27600,Mevo and The Grooveriders,5.99,2009-03-20,0,Indie;Casual,40,23,2,True,False,False
+27800,Space Giraffe,6.99,2009-03-19,0,Indie,0,36,17,True,False,False
+27810,Gridrunner Revolution,5.99,2010-02-22,0,Indie,0,36,9,True,False,False
+27900,Twin Sector,3.99,2009-09-16,0,Action;Adventure,0,88,150,True,False,False
+27920,Booster Trooper,1.69,2010-04-23,0,Action;Indie,260,91,94,True,False,False
+27940,Dead Horde,4.79,2011-07-27,0,Action;Indie,28,206,406,True,False,False
+28000,Kane & Lynch 2: Dog Days,7.99,2010-08-17,18,Action,59,2822,1919,True,False,False
+29120,Yumsters 2: Around the World,3.99,2009-11-12,0,Indie;Casual,0,53,26,True,False,False
+29130,Musaic Box,3.99,2009-03-19,0,Indie;Casual,0,178,12,True,False,False
+29160,Blueberry Garden,3.99,2009-06-01,0,Adventure;Indie,0,96,28,True,True,True
+29180,Osmos,6.99,2009-08-18,0,Indie;Casual,11,857,105,True,True,True
+29800,Caster,0.99,2009-03-19,0,Action;Adventure;Casual;Indie;RPG;Strategy,0,3277,868,True,True,False
+29900,Dark Sector,6.99,2009-03-24,0,Action,0,337,96,True,False,False
+31270,Puzzle Agent,3.99,2010-07-01,0,Adventure;Casual,0,1574,214,True,True,False
+31300,Tunnel Rats,15.99,2009-05-15,0,Action,0,11,19,True,False,False
+31800,Nancy Drew®: Danger by Design,5.19,2009-10-10,0,Adventure,0,15,9,True,False,False
+31810,Nancy Drew®: Last Train to Blue Moon Canyon,5.19,2009-10-10,0,Adventure,0,50,4,True,False,False
+31820,Nancy Drew®: The Haunted Carousel,5.19,2009-10-10,0,Adventure,0,35,6,True,False,False
+31830,Nancy Drew®: Curse of Blackmoor Manor,5.19,2009-10-10,0,Adventure,0,66,7,True,False,False
+31840,Nancy Drew®: Danger on Deception Island,5.19,2009-10-10,0,Adventure,0,32,2,True,False,False
+31850,Nancy Drew®: Ghost Dogs of Moon Lake,5.19,2009-10-10,0,Adventure,0,34,4,True,False,False
+31860,Nancy Drew®: Legend of the Crystal Skull,5.19,2009-07-17,0,Adventure,0,24,3,True,False,False
+31870,"Nancy Drew® Dossier: Lights, Camera, Curses!",5.19,2009-07-17,0,Adventure;Casual,0,10,12,True,False,False
+31880,Nancy Drew®: Secret of the Old Clock,5.19,2009-10-10,0,Adventure,0,28,2,True,False,False
+31890,Nancy Drew®: Secret of the Scarlet Hand,5.19,2009-10-10,0,Action,0,20,3,True,False,False
+31900,Nancy Drew®: The Creature of Kapu Cave,5.19,2009-07-17,0,Adventure,0,19,7,True,False,False
+31910,Nancy Drew®: The Haunting of Castle Malloy,5.19,2009-07-17,0,Adventure,0,26,6,True,False,False
+31920,Nancy Drew®: The Phantom of Venice,5.19,2009-07-17,0,Adventure,0,19,6,True,False,False
+31930,Nancy Drew®: The White Wolf of Icicle Creek,5.19,2009-07-17,0,Adventure,0,27,9,True,False,False
+31980,Nancy Drew®: Ransom of the Seven Ships,5.19,2009-07-21,0,Adventure,14,18,9,True,False,False
+32000,Raycatcher,3.99,2009-04-17,0,Indie;Casual,0,0,13,True,False,False
+32110,LUXOR: Mah Jong,5.99,2009-07-13,0,Casual,0,43,13,True,True,False
+32120,Chainz 2: Relinked,6.99,2009-07-13,0,Casual,0,24,18,True,False,False
+32140,Midnight Mysteries,5.99,2009-09-28,0,Adventure;Casual,0,89,40,True,False,False
+32150,Everyday Genius: SquareLogic,3.99,2009-10-21,0,Casual;Indie;Strategy,24,303,6,True,False,False
+32160,Zombie Bowl-o-Rama,6.99,2009-10-15,0,Sports;Casual,21,244,44,True,False,False
+32200,Metal Drift,6.99,2009-10-22,0,Action;Indie;Racing;Sports,28,81,45,True,False,False
+32310,Indiana Jones® and the Last Crusade™,4.79,2009-07-08,0,Adventure,0,121,32,True,True,False
+32330,LEGO® Indiana Jones™: The Original Adventures,15.49,2009-07-08,0,Action;Adventure,0,305,87,True,False,False
+32340,LOOM™,4.79,2009-07-08,0,Adventure,0,306,41,True,True,False
+32350,STAR WARS™ Starfighter™,4.79,2009-07-08,0,Action;Simulation,0,221,235,True,False,False
+32360,The Secret of Monkey Island: Special Edition,7.19,2009-07-15,0,Adventure,0,2156,115,True,False,False
+32370,STAR WARS™ - Knights of the Old Republic™,7.19,2009-09-05,0,Adventure;RPG,0,11569,1590,True,True,False
+32380,STAR WARS™ Jedi Knight: Dark Forces II,4.79,2009-09-16,0,Action,0,777,315,True,False,False
+32390,STAR WARS™ Jedi Knight - Mysteries of the Sith™,2.09,2009-09-16,0,Action,0,366,192,True,False,False
+32400,STAR WARS™ - Dark Forces,4.79,2009-09-16,0,Action,0,1501,171,True,True,False
+32410,Lucidity™,4.79,2009-10-07,0,Casual,12,37,16,True,False,False
+32420,STAR WARS™: The Clone Wars - Republic Heroes™,15.49,2009-10-06,0,Action,0,166,279,True,False,False
+32430,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,15.49,2009-12-15,0,Action,0,2287,1389,True,True,False
+32440,LEGO® Star Wars™ - The Complete Saga,15.49,2009-11-12,0,Adventure,0,3033,256,True,True,False
+32450,LEGO® Indiana Jones™ 2: The Adventure Continues,15.49,2010-02-18,0,Adventure,0,163,58,True,False,False
+32460,Monkey Island™ 2 Special Edition: LeChuck’s Revenge™,7.19,2010-07-07,0,Adventure,12,1194,63,True,False,False
+32470,STAR WARS™ Empire at War - Gold Pack,15.49,2010-05-25,0,Strategy,0,6526,396,True,False,False
+32500,STAR WARS™: The Force Unleashed™ II,15.49,2010-11-23,0,Action,0,1880,1348,True,False,False
+32510,LEGO® Star Wars™ III - The Clone Wars™,15.49,2011-03-22,0,Action;Adventure,0,825,140,True,False,False
+32610,Delta Force Xtreme 2,14.99,2009-06-18,0,Action,0,50,36,True,False,False
+32620,Delta Force,3.99,2009-06-18,0,Action,0,220,24,True,False,False
+32630,Delta Force 2,3.99,2009-06-18,0,Action,0,166,26,True,False,False
+32640,Delta Force Land Warrior,6.99,2009-06-18,0,Action,0,121,11,True,False,False
+32650,Delta Force: Task Force Dagger,6.99,2009-06-18,0,Action,0,58,14,True,False,False
+32660,Delta Force: Xtreme,14.99,2009-06-18,0,Action,0,41,14,True,False,False
+32670,Delta Force: Black Hawk Down,0.0,2009-06-18,0,Action,0,258,23,True,False,False
+32680,Delta Force — Black Hawk Down: Team Sabre,0.0,2009-06-18,0,Action,0,167,17,True,False,False
+32710,Armored Fist 3,6.99,2009-06-18,0,Simulation,0,27,8,True,False,False
+32720,F-16 Multirole Fighter,6.99,2009-06-18,0,Simulation,0,36,13,True,False,False
+32730,F-22 Lightning 3,6.99,2009-06-18,0,Simulation,0,47,27,True,False,False
+32740,MiG-29 Fulcrum,6.99,2009-06-01,0,Simulation,0,33,8,True,False,False
+32750,Comanche 4,6.99,2009-06-18,0,Action;Simulation,0,93,16,True,False,False
+32760,Tachyon: The Fringe,6.99,2009-06-18,0,Simulation,0,102,15,True,False,False
+32770,Joint Operations: Combined Arms Gold,14.99,2009-09-29,0,Action,0,121,17,True,False,False
+32900,Restaurant Empire II,13.99,2009-05-27,0,Casual;Indie;Simulation;Strategy,0,112,65,True,False,False
+33100,Alien Shooter,3.99,2009-05-27,0,Action;Indie;RPG,17,815,92,True,False,False
+33110,Alien Shooter: Revisited,3.99,2009-05-27,0,Action;Indie;RPG,0,150,79,True,False,False
+33120,Alien Shooter 2: Reloaded,3.99,2009-05-27,0,Action;Indie;RPG,0,995,84,True,False,False
+33130,Zombie Shooter,3.99,2009-05-27,0,Action;Indie;RPG,0,410,73,True,False,False
+33180,Zombie Shooter 2,7.19,2009-11-18,0,Action;Indie;RPG,0,291,85,True,False,False
+33230,Assassin's Creed 2 Deluxe Edition,8.59,2010-03-04,0,Action;Adventure,0,14861,2639,True,False,False
+33320,Prince of Persia: The Forgotten Sands™,8.59,2010-06-10,0,Action;Adventure,0,511,263,True,False,False
+33390,Zeit²,8.59,2011-01-12,0,Action;Indie,70,26,7,True,False,False
+33460,From Dust,8.59,2011-08-17,0,Adventure;Simulation,0,1356,750,True,False,False
+33520,Tropico Reloaded,5.99,2009-07-24,0,Simulation;Strategy,0,412,60,True,False,False
+33570,Patrician III,3.99,2010-11-18,0,RPG;Simulation;Strategy,0,289,86,True,False,False
+33600,Broken Sword 2 - the Smoking Mirror: Remastered,4.99,2009-12-02,0,Adventure,0,432,51,True,True,True
+33610,Broken Sword 3 - the Sleeping Dragon,4.99,2009-12-02,0,Adventure,0,181,167,True,False,False
+33620,Crash Time 3,3.99,2009-11-25,0,Action;Racing,0,228,64,True,False,False
+33650,Puzzler World,4.99,2010-05-28,0,Casual,14,299,37,True,False,False
+33660,Ziro,4.99,2010-05-28,0,Casual;Indie,36,21,7,True,False,False
+33670,Disciples III - Renaissance Steam Special Edition,9.99,2010-07-13,0,Strategy;RPG,57,166,134,True,False,False
+33680,eversion,3.99,2010-06-07,0,Indie,14,955,92,True,True,True
+33760,The Search for Amelia Earhart,4.99,2010-02-22,0,Casual,0,1,4,True,False,False
+33770,Drakensang: The River of Time,14.99,2011-02-16,0,RPG,0,154,37,True,False,False
+33790,Elizabeth Find M.D. - Diagnosis Mystery - Season 2,14.99,2011-06-09,0,Casual,0,16,13,True,True,False
+33900,Arma 2,7.99,2009-06-29,0,Action;Simulation;Strategy,0,1728,357,True,False,False
+33930,Arma 2: Operation Arrowhead,11.99,2010-06-29,18,Action;Simulation;Strategy,0,17683,1519,True,False,False
+33950,Fish Fillets 2,3.99,2010-11-05,0,Casual;Indie,0,151,56,True,False,False
+33980,Pound of Ground,8.99,2010-11-05,0,Action,26,78,49,True,False,False
+33990,Alternativa,9.99,2010-11-05,0,Adventure,0,83,86,True,False,False
+34010,Alpha Protocol™,9.99,2010-05-27,16,Action;RPG,0,3113,785,True,False,False
+34030,Total War: NAPOLEON – Definitive Edition,0.0,2010-02-25,0,Strategy,71,8540,907,True,True,False
+34190,Sonic & SEGA All-Stars Racing,4.99,2010-03-03,0,Racing,0,614,173,True,False,False
+34410,Death to Spies: Moment of Truth,4.99,2009-08-07,0,Action,0,260,42,True,False,False
+34420,XIII Century – Gold Edition,3.99,2009-08-28,0,Strategy,0,55,57,True,False,False
+34500,Light of Altair,11.99,2009-06-04,0,Indie;Simulation;Strategy,30,31,7,True,False,False
+34600,Order of War™,5.99,2009-09-17,0,Strategy,0,270,98,True,False,False
+34630,Massive Assault,6.99,2009-11-04,0,Strategy,0,6,2,True,False,False
+34640,Massive Assault: Phantom Renaissance,6.99,2009-11-04,0,Strategy,0,11,2,True,False,False
+34800,Chronicles of Mystery: The Scorpio Ritual,3.99,2009-06-18,0,Adventure,0,46,23,True,False,False
+34810,Project Freedom,2.99,2009-10-14,0,Action;Simulation,0,80,26,True,False,False
+34820,Combat Wings: Battle of Britain,4.99,2009-10-14,0,Simulation,0,373,101,True,False,False
+34830,Sniper: Ghost Warrior,5.99,2010-06-24,0,Action,24,2143,1728,True,False,False
+34870,Sniper: Ghost Warrior 2,6.99,2013-03-11,18,Action,38,6775,2724,True,False,False
+34900,Bad Rats: the Rats' Revenge,0.79,2009-07-20,0,Indie,13,10465,2981,True,False,False
+34920,Razor2: Hidden Skies,6.99,2010-07-19,0,Action;Casual;Indie,10,49,154,True,False,False
+35000,Mini Ninjas,7.99,2009-09-14,0,Action;Adventure,0,1612,270,True,False,False
+35070,Flora's Fruit Farm,2.99,2009-10-01,0,Casual,0,58,28,True,False,False
+35130,Lara Croft and the Guardian of Light,7.99,2010-09-28,0,Action;Adventure,12,2506,237,True,False,False
+35140,Batman: Arkham Asylum Game of the Year Edition,14.99,2010-03-26,0,Action;Adventure,47,20297,865,True,True,False
+35300,Warfare,9.99,2009-07-20,0,Strategy,0,73,26,True,False,False
+35310,Clutch,6.99,2009-07-20,0,Action;Racing,0,90,44,True,False,False
+35320,Insane 2,10.99,2012-01-24,0,Racing,47,329,67,True,False,False
+35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,14.99,2011-09-13,0,Action;Massively Multiplayer;Simulation,140,26922,2274,True,False,False
+35460,The Ball,6.99,2010-10-26,0,Action;Adventure;Indie,17,606,210,True,False,False
+35480,Dwarfs!?,7.99,2011-05-04,0,Strategy;Indie;Casual,29,619,177,True,True,True
+35600,Big Brain Wolf,3.99,2009-11-05,0,Adventure;Casual;Strategy,10,44,37,True,False,False
+35700,Trine Enchanted Edition,9.99,2009-07-02,0,Action;Adventure;Indie,33,9448,407,True,True,True
+35720,Trine 2: Complete Story,13.99,2013-06-06,0,Action;Adventure;Indie,97,16369,706,True,True,True
+35800,BRAINPIPE: A Plunge to Unhumanity,0.0,2009-07-06,0,Casual;Indie,0,126,22,True,True,False
+36000,Foreign Legion: Buckets of Blood,3.99,2009-08-04,0,Action;Indie,23,184,111,True,True,False
+36100,Tradewinds Classics,3.99,2009-07-17,0,Casual,0,43,2,True,False,False
+36130,Tradewinds Caravans + Odyssey Pack,10.99,2009-07-17,0,Casual,0,4,1,True,False,False
+36180,Cake Mania Collection,10.99,2009-07-17,0,Casual,0,28,11,True,False,False
+36210,Monster Mash,3.49,2009-07-17,0,Casual,0,11,3,True,False,False
+36240,Kuros,4.99,2009-09-21,0,Casual,0,7,0,True,False,False
+36300,Cake Mania Main Street™,4.99,2010-02-16,0,Casual,0,13,5,True,False,False
+36310,Westward® IV: All Aboard,4.99,2010-02-16,0,Strategy;Casual,0,11,1,True,False,False
+36320,Iron Roses,4.99,2010-02-16,0,Adventure;Casual,0,4,3,True,False,False
+36900,Angle of Attack,6.99,2009-08-17,0,Action;Simulation,0,0,2,True,False,False
+36910,All Aspect Warfare,6.99,2009-08-17,0,Action;Simulation,0,3,8,True,False,False
+37000,The Void,6.99,2009-12-15,0,Nudity;Action;Adventure,0,581,126,True,False,False
+37010,Ninja Blade,6.99,2009-11-19,0,Action,0,128,72,True,False,False
+37030,UFO: Extraterrestrials Gold,9.99,2010-02-17,0,Strategy,0,122,43,True,False,False
+37100,Aztaka,3.99,2009-11-05,0,Action;RPG;Indie,0,94,39,True,True,False
+37210,Chocolatier®: Decadence by Design™,7.49,2009-08-12,0,Simulation,0,51,23,True,True,False
+37220,Cooking Dash®,7.49,2009-08-12,0,Simulation,0,27,9,True,True,False
+37230,Diaper Dash®,7.49,2009-08-12,0,Simulation,0,13,2,True,True,False
+37240,Diner Dash:® Hometown Hero™,7.49,2009-08-12,0,Simulation,0,26,66,True,True,False
+37260,Emerald City Confidential™,7.49,2009-08-12,0,Adventure,0,50,3,True,False,False
+37270,Wandering Willows™,10.99,2009-08-12,0,Adventure;RPG,0,20,0,True,True,False
+37280,Wedding Dash® 2: Rings Around the World,7.49,2009-08-12,0,Simulation,0,13,3,True,True,False
+37300,DinerTown Tycoon,6.99,2009-09-30,0,Simulation,0,8,5,True,True,False
+37310,DinerTown Detective Agency™,4.99,2010-05-06,0,Casual,0,4,10,True,True,False
+37320,The Nightshift Code™,4.99,2010-05-06,0,Casual,0,2,3,True,True,False
+37330,Nightshift Legacy: The Jaguar's Eye™,4.99,2010-05-06,0,Casual,0,3,1,True,True,False
+37340,Fitness Dash™,4.99,2010-05-06,0,Casual,0,8,0,True,True,False
+37370,TriJinx: A Kristine Kross Mystery™,4.99,2010-05-06,0,Casual,0,3,1,True,True,False
+37380,Valerie Porter and the Scarlet Scandal™,4.99,2010-05-06,0,Casual,0,5,6,True,True,False
+37390,Gemini Lost™,4.99,2010-05-06,0,Casual,0,12,1,True,True,False
+37400,"Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack",2.99,2009-08-25,0,Adventure;Indie,0,494,118,True,False,False
+37500,Magnetis ,1.49,2009-11-05,0,Indie;Casual,40,33,9,True,False,False
+37600,Windosill,1.99,2009-09-25,0,Adventure;Casual;Indie,0,821,85,True,True,False
+37700,Darkest of Days,14.99,2010-03-01,0,Action,0,158,63,True,False,False
+37800,Quantz,7.99,2009-09-03,0,Indie;Casual,15,24,13,True,True,False
+37960,Jewel Quest Pack,14.99,2009-08-24,0,Casual,0,19,3,True,False,False
+38000,Mahjong Quest Collection,6.99,2009-08-24,0,Casual,0,20,2,True,False,False
+38070,Coconut Queen,6.99,2009-12-17,0,Casual;Simulation,0,11,1,True,False,False
+38080,Build-A-Lot,6.99,2009-12-17,0,Simulation,0,11,2,True,False,False
+38090,Build-A-Lot 2: Town of the Year,6.99,2009-12-17,0,Simulation,0,3,0,True,False,False
+38100,Build-A-Lot 3: Passport to Europe,6.99,2009-12-17,0,Simulation,0,2,0,True,False,False
+38110,Build-A-Lot 4: Power Source,6.99,2009-12-17,0,Simulation,0,4,3,True,False,False
+38120,Farm Frenzy,3.99,2010-02-15,0,Casual,0,19,2,True,False,False
+38130,Farm Frenzy 2,3.99,2010-02-15,0,Casual,0,17,2,True,False,False
+38140,Farm Frenzy: Pizza Party,3.99,2010-02-15,0,Casual,0,16,1,True,False,False
+38150,Farm Frenzy 3,6.99,2010-02-15,0,Casual,0,7,1,True,False,False
+38160,Farm Frenzy 3: American Pie,6.99,2010-02-15,0,Casual,0,2,0,True,False,False
+38170,Cradle of Rome,6.99,2010-02-20,0,Casual,0,16,2,True,False,False
+38180,Cradle of Persia,6.99,2010-02-20,0,Casual,0,6,0,True,False,False
+38190,Romance of Rome,6.99,2010-02-20,0,Casual,0,4,5,True,False,False
+38210,Roogoo,0.79,2009-12-17,0,Casual,0,273,66,True,False,False
+38230,Hotel Giant 2,5.59,2010-01-27,0,Simulation,13,66,95,True,False,False
+38400,Fallout: A Post Nuclear Role Playing Game,7.99,2015-11-01,16,RPG,0,6983,643,True,False,False
+38410,Fallout 2: A Post Nuclear Role Playing Game,7.99,2009-08-19,16,RPG,0,4758,321,True,False,False
+38420,Fallout Tactics: Brotherhood of Steel,7.99,2009-08-19,16,Strategy,0,847,210,True,False,False
+38430,Kingpin — Life of Crime,6.99,2009-08-19,0,Action,0,163,42,True,False,False
+38450,MDK,6.99,2009-09-17,0,Action,0,138,45,True,False,False
+38460,MDK 2,6.99,2009-09-17,0,Action,0,95,19,True,False,False
+38490,Earthworm Jim 2,14.99,2009-11-04,0,Action;Adventure,0,47,16,True,False,False
+38600,Faerie Solitaire,6.99,2010-09-17,0,Casual;Indie,30,2147,207,True,True,False
+38700,Toki Tori,3.99,2010-01-28,0,Casual;Indie,38,1660,226,True,True,True
+38720,RUSH,3.99,2010-12-03,0,Casual;Indie;Strategy,25,1069,117,True,True,True
+38740,EDGE,4.99,2011-08-11,0,Action;Indie,47,1714,148,True,True,True
+39000,Moonbase Alpha,0.0,2010-07-06,0,Adventure;Simulation;Strategy,0,9867,1166,True,False,False
+39110,SEASON OF MYSTERY: The Cherry Blossom Murders,2.99,2010-02-03,0,Casual,15,156,44,True,False,False
+39120,RIFT,0.0,2011-03-01,0,Free to Play;Massively Multiplayer;RPG,0,6885,2326,True,False,False
+39140,FINAL FANTASY VII,9.99,2013-07-04,12,RPG,36,11722,878,True,False,False
+39150,FINAL FANTASY VIII,9.99,2013-12-05,16,RPG,45,5323,682,True,False,False
+39190,Dungeon Siege,4.99,2011-04-05,0,RPG,0,1179,397,True,False,False
+39200,Dungeon Siege II,4.99,2005-08-16,0,RPG,0,813,343,True,False,False
+39210,FINAL FANTASY XIV Online,9.99,2014-02-18,16,Massively Multiplayer;RPG,0,9808,2107,True,False,False
+39500,Gothic® 3,8.99,2009-12-02,0,Action;RPG,0,2962,728,True,False,False
+39510,Gothic II: Gold Edition,8.99,2010-01-13,0,Action;RPG,0,3809,475,True,False,False
+39520,The Guild Gold Edition,8.99,2014-09-09,0,Simulation;Strategy,0,175,75,True,False,False
+39540,SpellForce - Platinum Edition,8.99,2009-11-03,0,Action;RPG,0,694,149,True,False,False
+39560,Painkiller: Resurrection,8.99,2009-10-27,0,Action,0,90,181,True,False,False
+39630,AquaNox,4.49,2010-04-20,0,Action,0,151,57,True,False,False
+39640,AquaNox 2: Revelation,4.49,2010-04-20,0,Action,0,106,35,True,False,False
+39650,The Guild II,8.99,2010-06-24,0,Simulation;Strategy,0,385,196,True,False,False
+39660,The Guild II - Pirates of the European Seas,8.99,2010-06-24,0,Simulation;Strategy,0,109,49,True,False,False
+39670,Chaser,4.49,2010-07-16,0,Action,0,611,226,True,False,False
+39680,The Guild II Renaissance,8.99,2010-07-28,0,Simulation;Strategy,0,1944,482,True,False,False
+39690,ArcaniA,17.99,2010-10-11,0,RPG,0,735,763,True,False,False
+39800,Nation Red,1.79,2009-09-03,0,Action;Indie,145,2093,272,True,True,True
+39900,Coniclysm,3.99,2010-03-26,0,Action,0,14,15,True,False,False
+40100,Supreme Commander 2,8.99,2010-03-01,0,Strategy,47,5336,903,True,False,False
+40200,ItzaBitza,6.99,2009-10-01,0,Casual,0,6,2,True,False,False
+40210,ItzaZoo,6.99,2009-12-09,0,Casual,0,10,0,True,False,False
+40300,Risen,7.99,2009-10-02,0,RPG,0,3848,585,True,False,False
+40320,Rush for Berlin Gold,3.99,2009-10-29,0,Strategy,0,88,13,True,False,False
+40330,Secret Files: Tunguska,7.99,2009-10-29,0,Adventure,0,135,32,True,False,False
+40340,Secret Files 2: Puritas Cordis,7.99,2009-10-29,0,Adventure,0,60,17,True,False,False
+40350,Lost Horizon,7.99,2010-09-24,0,Adventure,0,211,26,True,False,False
+40380,nail'd,3.99,2010-11-30,0,Racing,0,859,217,True,False,False
+40390,Risen 2: Dark Waters,7.99,2012-04-26,0,RPG,49,2987,891,True,False,False
+40400,AI War: Fleet Command,6.99,2009-10-21,0,Indie;Strategy,322,1109,205,True,True,True
+40420,Tidalis,3.99,2010-07-16,0,Casual;Indie,64,130,66,True,True,True
+40500,Sacraboar,2.09,2009-11-06,0,Action;Strategy;Indie,51,14,42,True,False,False
+40700,Machinarium,7.99,2009-10-16,0,Adventure;Indie,12,5437,264,True,True,False
+40720,Samorost 2,3.99,2009-12-10,0,Adventure;Casual;Indie,0,716,149,True,False,False
+40930,The Misadventures of P.B. Winterbottom,3.99,2010-04-20,0,Adventure;Indie,12,323,42,True,False,False
+40950,Stronghold HD,3.49,2013-10-21,0,Simulation;Strategy,0,2992,199,True,False,False
+40970,Stronghold Crusader HD,7.49,2013-10-21,0,Simulation;Strategy,0,4079,170,True,False,False
+40980,Stronghold Legends: Steam Edition,11.99,2016-09-15,0,Simulation;Strategy,60,404,123,True,False,False
+40990,Mafia,7.99,2002-08-28,0,Violent;Action;Adventure,0,1727,180,True,False,False
+41000,Serious Sam HD: The First Encounter,10.99,2009-11-24,0,Action;Indie,35,3950,269,True,False,False
+41070,Serious Sam 3: BFE,29.99,2011-11-22,0,Action;Indie,62,15574,1977,True,True,True
+41100,Hammerfight,3.99,2009-10-28,0,Action;Indie,0,1051,514,True,True,True
+41300,Altitude,0.0,2009-12-04,0,Action;Free to Play;Indie,52,1540,128,True,True,True
+41400,Doom Rails,1.99,2009-11-04,0,Action;Indie,0,8,20,True,False,False
+41500,Torchlight,10.99,2009-10-27,0,RPG,66,3825,317,True,True,False
+41600,Earthworm Jim 3D,14.99,2009-11-04,0,Action;Adventure,0,34,36,True,False,False
+41660,Tommy Tronic,6.99,2010-10-28,0,Action;Adventure;Indie,0,7,7,True,False,False
+41680,Death and the Fly,6.99,2011-05-23,0,Indie,0,3,9,True,False,False
+41700,S.T.A.L.K.E.R.: Call of Pripyat,12.99,2010-02-11,0,Action;RPG,0,10172,470,True,False,False
+41740,Cargo! The Quest for Gravity,6.99,2011-04-21,0,Action;Adventure;Simulation,52,260,72,True,False,False
+41800,Gratuitous Space Battles,10.99,2009-11-16,0,Indie;Simulation;Strategy,0,505,168,True,True,True
+41900,The Bard's Tale,6.99,2009-12-11,0,Action;Adventure;RPG,51,644,188,True,True,True
+42000,Trino,3.49,2011-01-27,0,Casual;Indie,37,9,5,True,False,False
+42120,Lead and Gold: Gangs of the Wild West,7.99,2010-04-08,16,Action,81,1471,545,True,False,False
+42140,Hamilton's Great Adventure,6.99,2011-05-31,0,Adventure;Casual;Indie,26,169,83,True,False,False
+42170,Krater,10.99,2012-06-12,0,Action;Adventure;Indie;RPG;Strategy,41,429,329,True,True,False
+42210,Nancy Drew®: Secrets Can Kill REMASTERED,5.19,2011-07-25,0,Adventure,0,48,23,True,True,False
+42220,Nancy Drew®: The Captive Curse,5.19,2011-07-25,0,Adventure,0,48,8,True,True,False
+42230,Nancy Drew®: Trail of the Twister,4.99,2011-07-25,0,Adventure,0,22,8,True,True,False
+42500,DogFighter,1.99,2010-06-14,0,Action;Indie,29,232,152,True,False,False
+42670,Singularity™,14.99,2010-06-30,18,Action,0,2766,227,True,False,False
+42700,Call of Duty®: Black Ops,29.99,2010-11-08,18,Action,68,14201,1839,True,False,False
+42810,For The Glory: A Europa Universalis Game,7.99,2009-11-11,0,Strategy,0,59,25,True,False,False
+42850,Arsenal of Democracy: A Hearts of Iron Game,7.99,2010-02-23,0,Strategy,0,180,31,True,False,False
+42890,Sword of the Stars: Complete Collection,7.99,2010-06-04,0,Strategy,0,355,46,True,False,False
+42910,Magicka,7.99,2011-01-25,0,Action;RPG,88,20912,1964,True,False,False
+42920,The Kings' Crusade,7.99,2010-10-08,0,Strategy,0,41,72,True,False,False
+42930,Elven Legacy: Magic,1.59,2009-12-03,0,Strategy,0,8,3,True,False,False
+42940,Elven Legacy: Siege,1.59,2009-11-17,0,Strategy,0,4,3,True,False,False
+42950,Elven Legacy: Ranger,1.59,2009-10-20,0,Strategy,0,9,2,True,False,False
+42960,Victoria II,14.99,2010-08-30,0,Strategy,0,4743,632,True,False,False
+42980,Victoria I Complete,7.99,2010-08-20,0,Strategy,0,88,41,True,False,False
+42990,Sword of the Stars II: Enhanced Edition,14.99,2012-11-30,0,Strategy,14,335,448,True,False,False
+43000,Front Mission Evolved,7.99,2010-10-07,0,Action,27,481,310,True,False,False
+43100,World of Zoo,4.99,2009-10-30,0,Simulation,0,115,30,True,False,False
+43190,The Haunted: Hells Reach,5.99,2011-10-24,0,Action;Indie,28,507,81,True,False,False
+43500,M.U.D. TV,7.99,2010-04-19,0,Simulation;Strategy,0,70,85,True,False,False
+43600,Nancy Drew®: Warnings at Waverly Academy,5.19,2010-01-13,0,Adventure,15,46,5,True,False,False
+44100,Super Laser  Racer,2.99,2010-02-18,0,Action;Indie;Racing,23,73,11,True,False,False
+44350,GRID 2,19.98,2013-05-27,0,Racing;Sports,60,11953,3009,True,False,False
+44360,F1 2011,9.99,2011-09-19,0,Racing;Simulation;Sports,0,232,108,True,False,False
+44600,GTR - FIA GT Racing Game,3.99,2012-09-25,0,Racing;Sports,0,43,28,True,False,False
+44680,RACE Injection,8.99,2011-11-18,0,Racing,0,11,1,True,False,False
+44690,GT Legends,4.99,2012-11-28,0,Racing;Simulation;Sports,0,201,24,True,False,False
+45000,Sol Survivor,7.19,2010-03-15,0,Indie;Strategy,26,293,30,True,False,False
+45100,Secret of the Magic Crystals,3.99,2010-02-03,0,Casual;Indie,22,1342,265,True,True,True
+45300,Wings of Prey,6.99,2010-01-08,0,Simulation,45,314,148,True,False,False
+45400,Fortix,0.99,2010-04-14,0,Indie,12,802,69,True,True,False
+45410,Ignite,6.99,2011-10-28,0,Racing,28,154,115,True,False,False
+45420,Land It!,6.99,2016-08-01,0,Casual;Indie;Simulation,25,10,1,True,True,False
+45450,Fortix 2,1.59,2011-05-06,0,Casual;Indie,26,462,45,True,True,True
+45700,Devil May Cry 4,15.99,2009-12-22,0,Action;Adventure,0,1620,144,True,False,False
+45710,Dark Void™,6.49,2010-01-22,0,Action;Adventure,0,218,230,True,False,False
+45720,Lost Planet: Extreme Condition Colonies Edition,12.99,2010-02-11,0,Action;Adventure,0,134,95,True,False,False
+45730,Dark Void™ Zero,2.99,2010-04-12,0,Action;Adventure,30,130,139,True,False,False
+45740,Dead Rising® 2,14.99,2010-09-27,18,Action;Adventure,50,2713,934,True,False,False
+45750,Lost Planet® 2,12.99,2010-10-15,0,Action;Adventure,0,998,504,True,False,False
+45760,Ultra Street Fighter® IV,22.99,2014-08-07,0,Action,67,8247,1141,True,False,False
+45770,Dead Rising 2: Off the Record,14.99,2011-10-11,18,Action;Adventure,50,1387,376,True,False,False
+46000,Bob Came in Pieces,3.99,2010-01-22,0,Adventure;Indie,81,68,29,True,True,False
+46200,A.I.M. Racing,0.0,2010-01-22,0,Action;Racing,0,54,21,True,False,False
+46250,NecroVisioN: Lost Company,4.99,2010-02-19,0,Action,0,169,71,True,False,False
+46260,Star Wolves 3: Civil War,3.99,2010-03-02,0,RPG;Strategy,0,312,89,True,False,False
+46270,Star Wolves,2.79,2010-03-02,0,RPG;Strategy,0,182,42,True,False,False
+46280,Star Wolves 2,2.79,2010-03-02,0,RPG;Strategy,0,42,52,True,False,False
+46290,Theatre of War,2.79,2010-07-09,0,Strategy,0,116,86,True,False,False
+46340,Theatre of War 2: Africa 1943,3.99,2010-07-09,0,Simulation;Strategy,0,86,50,True,False,False
+46350,Real Warfare 1242,2.79,2011-11-30,0,Strategy,0,31,30,True,False,False
+46360,Theatre of War 2: Kursk 1943,3.99,2010-07-09,0,Simulation;Strategy,0,81,42,True,False,False
+46370,Rig n Roll,3.99,2010-07-09,0,Simulation,0,165,175,True,False,False
+46380,Reign: Conflict of Nations,2.79,2010-07-12,0,Strategy,0,36,44,True,False,False
+46400,Greed: Black Border,3.99,2010-01-13,0,Action;RPG,0,106,153,True,False,False
+46410,Avencast: Rise of the Mage,6.99,2010-03-17,0,Action;Indie;RPG,0,348,175,True,False,False
+46440,Future Wars,3.99,2010-07-15,0,Strategy,0,84,204,True,False,False
+46450,Grotesque Tactics: Evil Heroes,6.99,2010-10-15,0,Indie;RPG;Strategy,10,217,140,True,False,False
+46480,Still Life,5.59,2011-06-01,0,Adventure,0,431,98,True,False,False
+46490,Still Life 2,5.59,2011-06-01,0,Adventure,0,123,155,True,False,False
+46500,Syberia,9.99,2011-05-19,0,Adventure;Casual,0,2092,260,True,True,False
+46510,Syberia II,9.99,2011-05-19,0,Adventure,0,862,156,True,True,False
+46520,Wasteland Angel,6.99,2011-09-01,0,Action;Indie,40,167,119,True,False,False
+46540,Trapped Dead,3.99,2011-07-15,0,Action;Strategy,0,258,410,True,False,False
+46550,Post Mortem,5.59,2011-08-26,0,Adventure,0,97,87,True,False,False
+46570,Grotesque Tactics 2 – Dungeons and Donuts,6.99,2011-11-21,0,Adventure;Indie;RPG;Strategy,13,103,87,True,False,False
+46600,Swarm Arena,2.89,2010-08-19,0,Action;Casual;Indie,15,40,12,True,False,False
+46700,Ironclads: American Civil War,34.95,2010-04-28,0,Strategy,0,9,30,True,False,False
+46710,Ironclads: High Seas,34.95,2010-04-28,0,Strategy,0,15,21,True,False,False
+46720,Dimensity,6.99,2010-07-21,0,RPG,0,3,12,True,False,False
+46730,Hazen: The Dark Whispers,7.99,2010-04-28,0,RPG,0,10,29,True,False,False
+46740,World Basketball Manager 2010,2.09,2010-04-21,0,Simulation,0,40,88,True,False,False
+46750,Dark Fall: Lost Souls,9.99,2010-04-21,0,Adventure;Indie,0,109,63,True,False,False
+46760,Ironclads: Schleswig War 1864,34.95,2011-06-21,0,Strategy,0,6,13,True,False,False
+46770,Making History II: The War of the World,10.99,2010-08-27,0,Indie;Simulation;Strategy,1,195,57,True,True,True
+46790,Armada 2526,10.99,2011-04-08,0,Strategy,0,14,12,True,False,False
+46830,Ironclads: Anglo Russian War 1866,34.95,2011-06-21,0,Strategy,0,9,17,True,False,False
+46840,Ironclads: Chincha Islands War 1866,34.95,2011-06-21,0,Strategy,0,3,12,True,False,False
+46850,Zombie Pirates,10.99,2011-04-20,0,Casual,0,29,17,True,False,False
+47110,Escape From Paradise ,6.99,2010-07-08,0,Action,0,2,3,True,False,False
+47120,Escape From Paradise 2,6.99,2010-07-08,0,Action,0,2,0,True,False,False
+47130,Book of Legends,6.99,2010-07-08,0,Adventure,0,5,2,True,False,False
+47400,Stronghold 3 Gold,0.0,2012-05-25,0,Simulation;Strategy,0,971,2385,True,True,True
+47410,Stronghold Kingdoms,0.0,2012-02-27,0,Free to Play;Massively Multiplayer;Strategy,0,4886,2609,True,False,False
+47700,Command & Conquer 4: Tiberian Twilight,9.99,2010-03-18,0,Strategy,0,378,1712,True,False,False
+47730,Dragon Age™: Origins Awakening,9.99,2010-03-18,0,RPG,0,92,7,True,False,False
+47780,Dead Space™ 2,14.99,2011-01-27,0,Action,0,8943,493,True,False,False
+47790,Medal of Honor™,14.99,2010-10-12,0,Action,0,3209,1370,True,False,False
+47800,RISK™: Factions,7.99,2011-03-08,0,Strategy,12,405,214,True,False,False
+47810,Dragon Age: Origins - Ultimate Edition,19.99,2010-10-29,0,RPG,0,8808,726,True,False,False
+47870,Need For Speed: Hot Pursuit,14.99,2010-12-14,0,Racing,0,11405,2775,True,False,False
+47890,The Sims™ 3,24.99,2011-01-27,0,Simulation,0,11679,2493,True,False,False
+47920,Shift 2 Unleashed,19.99,2011-03-31,0,Racing,0,1071,629,True,False,False
+48000,LIMBO,6.99,2011-08-02,0,Adventure;Indie,13,30321,1994,True,True,True
+48110,Silent Hunter 5®: Battle of the Atlantic,25.99,2010-03-01,0,Simulation,0,516,752,True,False,False
+48150,Voodoo Dice,8.59,2010-07-15,0,Casual,0,4,1,True,False,False
+48190,Assassin’s Creed® Brotherhood,12.49,2011-03-17,18,Action;Adventure,0,6676,929,True,False,False
+48240,Anno 2070™,16.99,2011-11-17,0,Strategy,0,5653,3686,True,False,False
+48700,Mount & Blade: Warband,14.99,2010-03-31,0,Action;RPG,80,75872,2213,True,True,True
+48720,Mount & Blade: With Fire & Sword,7.99,2011-05-03,0,Action;RPG,21,6236,1055,True,False,False
+48800,Ship Simulator Extremes,14.99,2010-08-27,0,Simulation,0,676,794,True,False,False
+48950,Greed Corp,6.99,2010-12-10,0,Strategy,13,399,68,True,False,False
+49000,Hotel Dash™ Suite Success™,4.99,2010-05-06,0,Casual,0,24,6,True,True,False
+49300,Commander: Conquest of the Americas,7.99,2010-07-30,0,Strategy,51,60,74,True,False,False
+49320,Woody Two-Legs: Attack of the Zombie Pirates,3.99,2010-11-02,0,Casual,10,32,24,True,False,False
+49470,Magic: The Gathering - Duels of the Planeswalkers 2012,0.0,2011-06-15,0,Strategy,26,705,95,True,False,False
+49520,Borderlands 2,19.99,2012-09-20,18,Action;RPG,69,144595,11021,True,True,True
+49600,Beat Hazard,6.99,2010-04-15,0,Action;Casual;Indie,63,6296,328,True,True,True
+49800,Flight of the Icarus,3.99,2010-05-12,0,Action;Indie,0,95,148,True,True,False
+49810,CreaVures,3.99,2011-02-23,0,Indie,21,117,25,True,True,False
+49900,Plain Sight,3.99,2010-04-05,0,Action;Indie,24,177,83,True,False,False
+50000,Nimbus,5.99,2010-10-25,0,Indie;Racing,18,179,10,True,False,False
+50130,Mafia II,19.99,2011-03-22,18,Action,67,31445,1855,True,True,False
+50300,Spec Ops: The Line,19.99,2012-06-28,18,Action;Adventure,50,32361,2613,True,True,True
+50510,Burn Zombie Burn!,6.99,2010-08-12,0,Action,15,65,93,True,False,False
+50910,Professor Fizzwizzle and the Molten Mystery,4.99,2010-04-21,0,Casual,0,12,0,True,True,False
+50920,Hidden Expedition: Amazon,6.99,2010-04-21,0,Casual;Indie,0,8,4,True,False,False
+50930,Hidden Expedition: Everest,6.99,2010-04-21,0,Casual,0,2,3,True,False,False
+50940,Hidden Expedition: Titanic,6.99,2010-04-21,0,Casual,0,5,1,True,False,False
+50960,Mystery Case Files: Huntsville™,6.99,2010-04-21,0,Casual,0,17,3,True,False,False
+50970,Mystery Case Files: Madame Fate®,4.99,2007-12-14,0,Casual,0,15,6,True,False,False
+50980,Mystery Case Files: Prime Suspects™,4.99,2010-04-21,0,Casual,0,9,3,True,False,False
+50990,Mystery Case Files: Ravenhearst®,6.99,2010-04-21,0,Casual,0,24,1,True,False,False
+51000,Mystery Case Files: Return to Ravenhearst™,6.99,2010-04-21,0,Casual,0,16,8,True,False,False
+51010,My Tribe,6.99,2010-04-21,0,Casual;Simulation,0,33,15,True,True,False
+51020,Unwell Mel,4.99,2010-04-21,0,Casual,0,5,1,True,True,False
+51030,Atlantis Sky Patrol,6.99,2010-04-21,0,Casual;Indie,0,6,1,True,True,False
+51060,Drawn®: The Painted Tower,6.99,2011-01-19,0,Adventure;Casual,30,87,13,True,False,False
+55000,Flotilla,6.99,2010-04-01,0,Adventure;Indie;Strategy,0,166,25,True,True,True
+55040,Atom Zombie Smasher,6.99,2011-03-14,0,Indie;Strategy,41,1397,180,True,True,True
+55100,Homefront,14.99,2011-03-14,0,Action,47,5506,3685,True,False,False
+55110,Red Faction®: Armageddon™,14.99,2011-06-09,18,Action,58,2674,1005,True,False,False
+55140,MX vs. ATV Reflex,14.99,2010-11-26,0,Racing,48,1599,359,True,False,False
+55150,"Warhammer 40,000: Space Marine",19.99,2011-09-08,18,Action,60,9847,998,True,False,False
+55230,Saints Row: The Third,6.99,2011-11-17,18,Action,83,44810,1877,True,False,True
+57000,NyxQuest: Kindred Spirits,1.99,2010-09-27,0,Action;Adventure,20,87,9,True,True,False
+57200,Puzzle Dimension,1.99,2010-06-21,0,Casual;Indie,25,412,41,True,True,False
+57300,Amnesia: The Dark Descent,14.99,2010-09-08,0,Action;Adventure;Indie,18,20222,1199,True,True,True
+57620,Patrician IV - Steam Special Edition,9.99,2010-09-17,0,Strategy,0,153,129,True,False,False
+57640,Broken Sword: Director's Cut,4.99,2010-09-02,0,Adventure,0,1131,108,True,True,True
+57650,Dungeons,6.99,2011-02-04,0,RPG;Strategy,0,214,266,True,False,False
+57680,The First Templar - Steam Special Edition,6.99,2011-05-12,0,Action;Adventure,50,473,208,True,False,False
+57690,Tropico 4,12.49,2011-09-01,0,Simulation;Strategy,70,8740,827,True,True,False
+57700,Who's That Flying?!,3.99,2011-01-31,0,Action;Casual;Indie,12,98,42,True,False,False
+57740,Jagged Alliance - Back in Action,14.99,2012-02-08,0,RPG;Simulation;Strategy,60,730,345,True,True,True
+57800,Doc Clock: The Toasted Sandwich of Time,2.99,2010-10-15,0,Adventure;Casual;Indie,12,79,92,True,True,False
+57900,Duke Nukem Forever,14.99,2011-06-09,18,Action,62,4433,2243,True,True,False
+58200,Jolly Rover,6.99,2010-06-07,0,Adventure;Casual;Indie,16,249,31,True,True,False
+58230,MacGuffin's Curse,6.99,2012-04-19,0,Adventure;Casual;Indie,15,81,16,True,True,False
+58400,Turba,3.49,2010-07-01,0,Casual;Indie,21,46,83,True,False,False
+58520,Blood Bowl - Legendary Edition,7.99,2010-10-28,0,Sports;Strategy,0,675,228,True,False,False
+58550,A Game of Thrones - Genesis,6.99,2011-09-28,0,Strategy,75,201,420,True,False,False
+58560,Runaway: A Twist of Fate,6.99,2011-04-21,0,Adventure,0,191,34,True,False,False
+58570,The Next BIG Thing,6.99,2011-04-21,0,Adventure,0,352,59,True,True,False
+58610,Wargame: European Escalation,7.99,2012-02-22,0,Strategy,29,1892,574,True,True,True
+60340,Luxor: 5th Passage,6.99,2011-01-25,0,Action;Adventure;Casual,0,39,20,True,True,False
+60350,Glowfish,6.99,2011-09-30,0,Adventure;Casual;Indie,25,80,11,True,True,False
+60600,ProtoGalaxy,0.0,2010-10-06,0,Action;Indie,33,30,22,True,False,False
+60700,Power of Defense,6.99,2010-08-04,0,Strategy;Indie,26,9,25,True,True,False
+60800,Numen: Contest of Heroes,4.99,2010-06-03,0,RPG,0,66,69,True,False,False
+61100,Lucid,4.99,2011-07-19,0,Indie;Casual,11,171,53,True,False,False
+61310,Fractal: Make Blooms Not War,4.99,2011-11-29,0,Indie;Casual,0,140,44,True,True,False
+61500,Age of Wonders,3.99,2010-10-01,0,RPG;Strategy,0,334,98,True,False,False
+61510,Age of Wonders II: The Wizard's Throne,6.99,2010-10-01,0,RPG;Strategy,0,105,28,True,False,False
+61520,Age of Wonders Shadow Magic,6.99,2010-10-01,0,RPG;Strategy,0,225,35,True,False,False
+61600,Zen Bound 2,3.99,2010-11-16,0,Indie;Casual,11,432,65,True,True,True
+61700,Might & Magic: Clash of Heroes,8.59,2011-09-21,0,RPG;Strategy,14,1293,157,True,False,False
+61730,Critter Crunch,4.99,2012-09-11,0,Action;Indie;Casual,14,256,14,True,True,False
+62000,Flight Control HD,2.99,2010-11-18,0,Action;Casual,16,406,36,True,True,False
+62100,Chime,3.99,2010-09-06,0,Casual,15,564,39,True,False,False
+63000,HOARD,6.99,2011-04-04,0,Action;Casual;Indie;Strategy,129,673,168,True,True,True
+63110,Alter Ego,7.19,2010-08-03,0,Adventure,0,139,59,True,False,False
+63200,Monday Night Combat,3.99,2011-01-24,0,Action;Strategy;Indie;Sports,51,720,205,True,False,False
+63500,Swords and Soldiers HD,6.99,2010-12-02,0,Action;Casual;Indie;Strategy,25,572,160,True,True,False
+63610,Riven: The Sequel to MYST,3.99,2010-08-04,0,Adventure;Casual,0,288,103,True,True,False
+63650,URU: Complete Chronicles,6.99,2010-08-03,0,Adventure;Casual,0,68,18,True,True,False
+63660,Myst: Masterpiece Edition,3.99,2011-02-02,0,Adventure;Casual,0,155,80,True,True,False
+63700,BIT.TRIP BEAT,6.99,2010-11-02,0,Action;Casual;Indie,26,616,140,True,True,False
+63710,BIT.TRIP RUNNER,6.99,2011-02-28,0,Action;Indie,26,3058,490,True,True,False
+63800,Delve Deeper,3.99,2010-09-24,0,Adventure;Indie;RPG;Strategy,50,225,159,True,False,False
+63900,Fantasy Wars,3.99,2010-08-06,0,Strategy,0,115,28,True,False,False
+63910,King's Bounty: Crossworlds,11.99,2010-09-17,0,RPG;Strategy,0,492,47,True,False,False
+63940,Men of War: Vietnam,5.59,2011-09-08,0,Strategy,22,399,247,True,False,False
+63960,Theatre of War 3: Korea,4.99,2011-03-24,0,Strategy,0,50,76,True,False,False
+64000,Men of War: Assault Squad,7.19,2011-02-24,0,Strategy,110,2881,416,True,False,False
+65070,Ride 'em Low,2.09,2013-11-04,0,Racing;Simulation,0,56,55,True,False,False
+65080,Kaptain Brawe: A Brawe New World,3.99,2011-01-20,0,Adventure,0,87,30,True,True,False
+65270,Demolition Company Gold Edition,7.19,2011-08-04,0,Simulation,0,144,27,True,False,False
+65400,Archon Classic,6.99,2010-11-02,0,Strategy;Indie,43,87,17,True,False,False
+65500,Aura: Fate of the Ages,4.49,2010-10-04,0,Adventure,0,84,63,True,False,False
+65530,SpellForce 2: Faith in Destiny,13.99,2012-06-19,0,RPG;Strategy,0,125,85,True,False,False
+65540,Gothic 1,0.0,2001-03-15,0,Action;RPG,0,3396,523,True,False,False
+65560,Painkiller Redemption,4.49,2011-02-25,0,Action,0,206,196,True,False,False
+65600,Gothic 3: Forsaken Gods Enhanced Edition,8.99,2011-03-22,0,RPG,0,247,254,True,False,False
+65610,ArcaniA: Fall of Setarrif,13.99,2011-10-24,0,RPG,0,119,225,True,False,False
+65710,Pat & Mat,3.99,2010-11-05,0,Casual,0,297,59,True,False,False
+65730,Take On Helicopters,11.99,2011-10-27,0,Simulation,0,340,260,True,False,False
+65740,Carrier Command: Gaea Mission,19.99,2012-09-28,16,Action;Strategy,45,362,442,True,False,False
+65780,ARMA: Gold Edition,5.99,2011-07-13,16,Action;Simulation;Strategy,0,548,209,True,False,False
+65790,ARMA: Cold War Assault,3.49,2011-08-08,16,Action;Simulation;Strategy,0,3195,942,True,False,False
+65800,Dungeon Defenders,9.99,2011-10-18,0,Action;Indie;RPG;Strategy,114,10693,932,True,True,True
+65930,The Bureau: XCOM Declassified,14.99,2013-08-22,16,Action,41,6661,2923,True,True,False
+65980,Sid Meier's Civilization®: Beyond Earth™,29.99,2014-10-23,0,Strategy,90,9555,8224,True,True,True
+75980,Some new cool game nobody cares about,69.99,2025-07-25,18,Simulation,90,1000000,2,True,True,True
