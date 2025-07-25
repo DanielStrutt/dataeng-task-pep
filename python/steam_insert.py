@@ -1,7 +1,7 @@
 import os
 import json
 import pandas as pd
-from config import CSV_PATH, JSON_PATH
+from config.config import CSV_PATH, JSON_PATH
 
 def steam_insert():
     if os.path.exists(CSV_PATH):
