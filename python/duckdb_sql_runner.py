@@ -3,7 +3,7 @@ from tabulate import tabulate
 import os
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
-sql_path = os.path.join(base_dir, '..', 'config', 'sql_script.sql')
+sql_path = os.path.join(base_dir, '..', 'sql', 'test_sql_script.sql')
 csv_path = os.path.join(base_dir, '..', 'data', 'target_steam_flattened.csv')
 
 with open(sql_path, 'r', encoding='utf-8') as f:
