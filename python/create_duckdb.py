@@ -1,15 +1,11 @@
 import duckdb
-import os
+from config import DB_PATH, CSV_PATH
 
-base_dir = os.path.dirname(os.path.abspath(__file__))
-db_path = os.path.join(base_dir, '..', 'data', 'steam_data.duckdb')
-csv_path = os.path.join(base_dir, '..', 'data', 'target_steam_flattened.csv')
-
-con = duckdb.connect(db_path)
+con = duckdb.connect(DB_PATH)
 con.execute(f"""
     CREATE TABLE IF NOT EXISTS steam_flattened AS
-    SELECT * FROM read_csv_auto('{csv_path}');
+    SELECT * FROM read_csv_auto('{CSV_PATH}');
 """)
 con.close()
 
-print(f"Created DuckDB database at {db_path}")
+print(f"Created DuckDB database at {DB_PATH}")

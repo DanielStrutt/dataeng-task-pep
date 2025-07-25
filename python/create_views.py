@@ -1,18 +1,16 @@
 import duckdb
 import os
 import glob
+from config import DB_PATH
 
-# Set up paths
-base_dir = os.path.dirname(os.path.abspath(__file__))
-sql_dir = os.path.join(base_dir, '..', 'sql')
-db_path = os.path.join(base_dir, '..', 'data', 'steam_data.duckdb')
+import duckdb
+from config import DB_PATH, SQL_VIEW_FILES
 
-# Find all SQL files prefixed with vw_
-sql_files = sorted(glob.glob(os.path.join(sql_dir, 'vw_*.sql')))
+# Connect to DuckDB
+con = duckdb.connect(DB_PATH)
 
-con = duckdb.connect(db_path)
-
-for sql_file in sql_files:
+# Execute each view creation SQL script
+for sql_file in SQL_VIEW_FILES:
     with open(sql_file, 'r', encoding='utf-8') as f:
         sql = f.read()
     print(f"Running {os.path.basename(sql_file)}...")

@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 import os
-from config.config import CSV_PATH, JSON_PATH
+from config import CSV_PATH, JSON_PATH
 
 def steam_update():
     if not os.path.exists(CSV_PATH):

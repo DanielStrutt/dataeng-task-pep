@@ -1,8 +1,9 @@
 appid,name,price,release_date,required_age,genres,achievements,positive_ratings,negative_ratings,windows,mac,linux
 10,Counter-Strike,7.19,2000-11-01,0,Action,0,124534,3339,True,True,True
+20,Team Fortress Classic,3.99,1999-04-01,0,Action,0,3318,633,True,True,True
 30,Day of Defeat,3.99,2003-05-01,0,Action,0,3416,398,True,True,True
 40,Deathmatch Classic,3.99,2001-06-01,0,Action,0,1273,267,True,True,True
-50,Half-Life: Opposing Force,5.05,1999-11-01,0,Action,0,5250,288,True,True,True
+50,Half-Life: Opposing Force,3.99,1999-11-01,0,Action,0,5250,288,True,True,True
 60,Ricochet,3.99,2000-11-01,0,Action,0,2758,684,True,True,True
 70,Half-Life,7.19,1998-11-08,0,Action,0,27755,1100,True,True,True
 80,Counter-Strike: Condition Zero,7.19,2004-03-01,0,Action,0,12120,1439,True,True,True
@@ -998,4 +999,3 @@ appid,name,price,release_date,required_age,genres,achievements,positive_ratings,
 65800,Dungeon Defenders,9.99,2011-10-18,0,Action;Indie;RPG;Strategy,114,10693,932,True,True,True
 65930,The Bureau: XCOM Declassified,14.99,2013-08-22,16,Action,41,6661,2923,True,True,False
 65980,Sid Meier's Civilization®: Beyond Earth™,29.99,2014-10-23,0,Strategy,90,9555,8224,True,True,True
-75980,Some new cool game nobody cares about,69.99,2025-07-25,18,Simulation,90,1000000,2,True,True,True

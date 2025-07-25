@@ -1,16 +1,13 @@
 import duckdb
 from tabulate import tabulate
 import os
+from config import CSV_PATH, SQL_PATH
 
-base_dir = os.path.dirname(os.path.abspath(__file__))
-sql_path = os.path.join(base_dir, '..', 'sql', 'test_sql_script.sql')
-csv_path = os.path.join(base_dir, '..', 'data', 'target_steam_flattened.csv')
-
-with open(sql_path, 'r', encoding='utf-8') as f:
+with open(SQL_PATH, 'r', encoding='utf-8') as f:
     query = f.read()
 
 # Replace placeholder if you want to use {csv_path} in your SQL
-query = query.format(csv_path=csv_path)
+query = query.format(csv_path=CSV_PATH)
 
 con = duckdb.connect()
 result = con.execute(query).fetchdf()

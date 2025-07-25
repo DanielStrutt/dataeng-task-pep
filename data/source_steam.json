@@ -16,6 +16,22 @@
         "negative_ratings": 3339
     },
     {
+        "appid": 20,
+        "name": "Team Fortress Classic",
+        "price": 3.99,
+        "release_date": "1999-04-01",
+        "platforms": [
+            "windows",
+            "mac",
+            "linux"
+        ],
+        "required_age": 0,
+        "genres": "Action",
+        "achievements": 0,
+        "positive_ratings": 3318,
+        "negative_ratings": 633
+    },
+    {
         "appid": 30,
         "name": "Day of Defeat",
         "price": 3.99,
@@ -50,7 +66,7 @@
     {
         "appid": 50,
         "name": "Half-Life: Opposing Force",
-        "price": 5.05,
+        "price": 3.99,
         "release_date": "1999-11-01",
         "platforms": [
             "windows",
@@ -14315,22 +14331,5 @@
         "achievements": 90,
         "positive_ratings": 9555,
         "negative_ratings": 8224
-    }
-    ,
-    {
-        "appid": 75980,
-        "name": "Some new cool game nobody cares about",
-        "price": 69.99,
-        "release_date": "2025-07-25",
-        "platforms": [
-            "windows",
-            "mac",
-            "linux"
-        ],
-        "required_age": 18,
-        "genres": "Simulation",
-        "achievements": 90,
-        "positive_ratings": 1000000,
-        "negative_ratings": 2
     }
 ]
